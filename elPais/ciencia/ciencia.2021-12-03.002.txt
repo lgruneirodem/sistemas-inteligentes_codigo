@@ -1,0 +1,24 @@
+Ciencia, Matemáticas, Juego, Carlo Frabetti
+
+Particiones y poliominós
+
+Las particiones de los números naturales en sumandos fueron estudiadas por Hardy y Ramanujan a principios del siglo pasado
+
+La aparentemente imposible partición de un triángulo obtusángulo en acutángulos, de la que nos hemos ocupado las dos últimas semanas, requiere que al menos un vértice común de los acutángulos no sea perimetral, sino interior (ver figura de la entrega anterior), y en ese vértice han de confluir al menos 5 ángulos, para que todos sean agudos; por lo tanto, la división requiere un mínimo de 7 acutángulos: 5 interiores y 2 más a ambos lados del pentágono que forman aquellos.
+En cuanto a la sucesión de los respectivos números de particiones de los números naturales (y si se considera que el 0 tiene, al igual que el 1, una partición), es la siguiente:
+1, 1, 2, 3, 5, 7, 11, 15, 22, 30, 42, 56, 77, 101, 135, 176, 231, 297, 385, 490, 627, 792…
+Se designa como p(n) el número de particiones del número natural n, y es fácil ver que su crecimiento se “acelera” a medida que crece n; así:
+p(10) = 42
+p(100) = 190.569.292
+p(200) = 3.972.998.029.388
+p(1000) = 24.061.467.864.032.622.473.692.149.727.991
+No hay una fórmula sencilla que nos dé el número de particiones en función de n; los famosos matemáticos G. H. Hardy y Srinivasa Ramanujan estudiaron la función p(n) a principios del siglo pasado y obtuvieron una interesante expresión asintótica (cuando n tiende a infinito), demasiado compleja para abordarla aquí.
+A mis sagaces lectoras/es no les habrá pasado inadvertido el paralelismo (identidad, más bien) entre los esquemas de Young para la representación de las particiones, vistos la semana pasada, y los poliominós, a los que dedicamos varias entregas de El juego de la ciencia el año pasado (ver Poliominós, 5 de junio de 2020, y anteriores).
+De acuerdo con los esquemas de Young, la partición 10 = 5 + 4 + 1 se representa como se muestra en la figura (el orden de los sumandos es irrelevante, pero se suelen disponer de mayor a menor):
+Este poliominó de orden 10 es uno de los 4.460 decominós (sin agujeros) posibles, muchos más que las 42 particiones de 10 en sumandos: menos de una centésima parte de los decominós son esquemas de Young. ¿Podemos sacar alguna conclusión de esta proporción o plantear alguna generalización al respecto?
+El número de Ramanujan
+Al hablar de Hardy y Ramanujan en relación con las particiones de números enteros en sumandos, es inevitable recordar la famosa anécdota relativa al número 1729, que pasó a llamarse el número de Ramanujan. En cierta ocasión, Hardy le comentó al genial matemático indio que había tomado un taxi con el número de licencia 1729 y que ese número le había parecido muy poco interesante, a lo que Ramanujan replicó: “No diga eso, Hardy, 1729 es el menor número que se puede expresar de dos maneras distintas como suma de dos cubos”.
+Efectivamente, 1729 = 10³ + 9³ = 12³ + 1³ ; pero ¿es realmente el menor número con esta propiedad? Y, dicho sea de paso, ¿tiene sentido hablar de números “poco interesantes”?
+Por otra parte, y sin pretender quitarle mérito al gran Ramanujan, su proeza de cálculo mental, siendo sin duda notable, no es tan asombrosa como parece a primera vista. Alguien muy familiarizado con los números conoce bien los cubos de los primeros enteros y no es difícil que se dé cuenta a primera vista de que 1728 = 12³ y 729 = 9³ , y de ahí a ver que sumando 1 al primer cubo y 1000 al segundo se obtiene 1729 no hay más que un paso.
+Carlo Frabetti es escritor y matemático, miembro de la Academia de Ciencias de Nueva York. Ha publicado más de 50 obras de divulgación científica para adultos, niños y jóvenes, entre ellos ‘Maldita física’, ‘Malditas matemáticas’ o ‘El gran juego’. Fue guionista de ‘La bola de cristal’.
+Puedes seguir a MATERIA en Facebook, Twitter e Instagram, o apuntarte aquí para recibir nuestra newsletter semanal

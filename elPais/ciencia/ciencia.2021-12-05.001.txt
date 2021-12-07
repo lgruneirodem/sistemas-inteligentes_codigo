@@ -1,0 +1,139 @@
+Ciencia, Coronavirus Covid-19, Coronavirus, Pandemia, Virología, Genética, Salud, Enfermedades infecciosas, Enfermedades respiratorias
+
+Ómicron: así es el “Frankenstein” del coronavirus que atemoriza al planeta
+
+Los análisis preliminares sugieren que la capacidad de la nueva variante para reinfectar a personas que ya han pasado la covid triplica la de versiones anteriores
+
+La variante ómicron del coronavirus es una especie de “Frankenstein”, en palabras de la  viróloga Inmaculada Casas. Presenta más de medio centenar de mutaciones, 36 de ellas concentradas en su espícula, la proteína que utiliza como llave maestra para penetrar en las células humanas.
+
+Virus original
+Virus mutado
+Espícula
+Espícula
+mutada
+Mutaciones
+Virus original
+Virus mutado (ómicron)
+Espícula
+Espícula
+mutada
+Membrana
+del virus
+Mutaciones
+Virus original
+Virus mutado (ómicron)
+Espícula
+Espícula
+mutada
+Membrana
+del virus
+Mutaciones
+Los anticuerpos —las defensas humanas generadas por una vacuna o por una infección previa— saben reconocer la espícula del coronavirus original de Wuhan y anularla. El gran temor es que la multitud de mutaciones en la espícula de ómicron despiste a estos anticuerpos, disminuyendo la eficacia de las vacunas. Un estudio preliminar de la Universidad de Stellenbosch (Sudáfrica) sugiere que la capacidad de ómicron para reinfectar a personas que ya han pasado la covid triplica la de variantes anteriores, como delta, la dominante en el planeta.
+
+Virus original
+Virus mutado
+Los anticuerpos podrían no reconocer bien al virus mutado
+Virus original
+Virus mutado
+Los anticuerpos podrían no reconocer bien al virus mutado
+Virus original
+Virus mutado
+Anticuerpos
+Los anticuerpos podrían no reconocer bien al virus mutado
+Algunas mutaciones de ómicron, además, cambian su forma de acoplarse a los receptores de las células humanas, según los modelos bioinformáticos del virólogo  Javier Jaimes. Los efectos de esta novedad son todavía un enigma. Un equipo internacional de científicos coordinado por el Instituto Nacional para las Enfermedades Infecciosas de Sudáfrica calculó este viernes que ómicron se expande al doble de velocidad que delta. La explicación podría ser una mayor transmisibilidad, por una mejor penetración en las células humanas, o una mayor capacidad para regatear a los anticuerpos y reinfectar. O ambas.
+
+Virus original
+Virus mutado
+(ómicron)
+Espícula
+Receptor
+ACE2
+Célula humana
+El encaje de ómicron en las células humanas es diferente. Su forma mutada podría facilitar su ingreso.
+Virus original
+Virus mutado
+(ómicron)
+Espícula
+Receptor
+ACE2
+Célula humana
+El encaje de ómicron en las células humanas es diferente. Su forma mutada podría facilitar su ingreso.
+Virus original
+Virus mutado
+(ómicron)
+Espícula
+Receptor
+ACE2
+Célula humana
+El encaje de ómicron en las células humanas es diferente. Su forma mutada podría facilitar su ingreso.
+Virus original
+Virus mutado
+(ómicron)
+El encaje de ómicron en las células humanas es diferente. Su forma mutada podría facilitar su ingreso.
+Espícula
+Receptor
+ACE2
+Célula humana
+La insólita acumulación de mutaciones en ómicron podría cambiar por completo el comportamiento del virus. O no. La viróloga Sonia Zúñiga recuerda que “en biología, uno más uno no siempre es igual a dos”.
+Variante ómicron
+Célula humana
+Variante ómicron
+Célula humana
+Variante ómicron
+Célula humana
+Variante ómicron
+Célula humana
+Pasarán semanas, o días en el mejor de los casos, hasta que los científicos consigan un retrato real de ómicron. Algunos investigadores, sin embargo, se han lanzado ya a hacer conjeturas con los escasos datos disponibles en el sur de África. El biólogo Tom Wenseleers, de la Universidad de Lovaina (Bélgica), calcula que cada infectado por ómicron contagiaría a más de ocho personas en promedio en una población no inmunizada, frente a las 2,5 del virus original de Wuhan y a las 6,5 de delta, la variante más transmisible hasta ahora. Wenseleers cree además que la capacidad de ómicron para reinfectar puede ser incluso cinco veces mayor que la de las versiones anteriores. Son resultados que hay que coger con pinzas, aunque uno de los principales expertos en el nuevo coronavirus, el biólogo danés Kristian Andersen, opina que la realidad no será muy diferente.
+Ómicron es un Frankenstein porque reúne multitud de mutaciones ventajosas ya vistas por separado en las cuatro peores variantes anteriores, las identificadas en India, Brasil, Reino Unido y Sudáfrica en 2020. Los auténticos efectos de la combinación de las 36 mutaciones en su espícula son todavía un misterio.
+
+         Mutaciones
+      
+Receptor ACE2 de la célula humana
+Espícula del virus mutado (ómicron)
+
+                Fuente: GISAID y CoVariants.
+             
+
+                  Las mutaciones Q498R, N501Y y S477N, sobre el papel, aumentan la afinidad del virus con los receptores ACE2 de las células.
+               
+
+                  Mutaciones asociadas a una posible mayor capacidad para escapar de los anticuerpos: G339D, S371L, S373P, S375F, K417N, G446S y E484A.        
+                  
+
+                  Los virus necesitan cortar la espícula para iniciar la invasión de la célula. Las mutaciones H655Y, N679K y P681H, localizadas en el llamado sitio de corte por furina, podrían facilitar el proceso.
+
+El coronavirus SARS-CoV-2 es básicamente un mensaje de 30.000 letras, con las instrucciones para secuestrar una célula humana y hacer miles de copias de sí mismo. Cada una de esas letras es simplemente la inicial de un compuesto químico con diferentes cantidades de carbono, hidrógeno, nitrógeno y oxígeno. Hay cuatro tipos: adenina (C₅H₅N₅), citosina (C₄H₅N₃O), guanina (C₅H₅N₅O) y uracilo (C₄H₄N₂O₂). Ese breve texto químico ya ha matado a más de cinco millones de personas. Desde su aparición a finales de 2019, el coronavirus se ha multiplicado trillones y trillones de veces, cometiendo errores, de una letra por otra, que a veces son ventajosos, por puro azar. Esas son las mutaciones de ómicron.
+Así se produce una mutación
+1
+El virus secuestra la célula humana para hacer miles de copias de sí mismo.
+CÉLULA HUMANA
+2
+La maquinaria celular lee sus 30.000 letras y por cada tres de ellas fabrica un aminoácido, la unidad esencial del virus.
+Aminoácidos
+3
+En el proceso de copia se cometen errores. Ómicron acumula 36 mutaciones en su espícula, que podrían facilitar la invasión de las células.
+Aminoácidos
+Así se produce una mutación
+1
+El virus secuestra la célula humana para hacer miles de copias de sí mismo.
+CÉLULA HUMANA
+2
+La maquinaria celular lee sus 30.000 letras y por cada tres de ellas fabrica un aminoácido, la unidad esencial del virus.
+Aminoácidos
+3
+En el proceso de copia se cometen errores. Ómicron acumula 36 mutaciones en su espícula, que podrían facilitar la invasión de las células.
+Aminoácidos
+Variante
+ómicron
+La viróloga Theodora Hatziioannou cree que ómicron será sin duda “la variante más resistente” a las defensas humanas. Su equipo en la Universidad Rockefeller —en Nueva York— modificó en septiembre un virus inofensivo del ganado, añadiéndole una espícula del coronavirus con 20 mutaciones, muchas de ellas también presentes ahora en ómicron. Su virus artificial fue capaz de escapar casi por completo de los anticuerpos generados por una infección previa por covid y también de los producidos por dos dosis de una vacuna de ARN, como las de Pfizer y Moderna. “Ómicron será muy resistente a los anticuerpos neutralizantes. Puedo hacer esta predicción con bastante confianza gracias a nuestra espícula sintética”, advierte Hatziioannou.
+Las defensas humanas, sin embargo, son un potente ejército en el que los anticuerpos son solo un batallón. Las vacunas y las infecciones previas por el coronavirus inducen, por ejemplo, la formación de linfocitos T, unos glóbulos blancos que aniquilan las células infectadas. Hatziioannou espera que las vacunas sigan evitando la inmensa mayoría de los casos graves de covid y las muertes, como hasta ahora, aunque habrá que esperar para confirmarlo. “Lo averiguaremos pronto”, apunta la investigadora.
+La microbióloga Patricia Muñoz encabeza el equipo que identificó el primer caso de ómicron en España, el de un hombre de 51 años, vacunado con dos dosis de Pfizer, que llegó a Madrid procedente de Sudáfrica el 28 de noviembre, con síntomas de poca importancia. Las decenas de casos que se están viendo por el momento en Europa no son graves. “Esta variante podría sustituir a la delta, no lo veo en absoluto imposible, pero las vacunas están haciendo que la enfermedad por ómicron sea leve. Estamos mejor preparados que en las otras olas, con mucha gente vacunada [el 90% de la población diana en España] y con la población alerta”, tranquiliza Muñoz, jefa de Microbiología del Hospital Gregorio Marañón, en Madrid.
+La viróloga Inmaculada Casas dirige la red española de vigilancia genómica del coronavirus y está en contacto permanente con las autoridades europeas. “La capacidad de control de los anticuerpos producidos en las personas vacunadas es óptimo frente a ómicron. Las cifras de ingresos en el hospital y en las UCI [de personas vacunadas] son extremadamente bajas”, señala Casas, citando datos preliminares presentados este viernes por sus colegas sudafricanos. La viróloga insta a ofrecer una tercera dosis de la vacuna a toda la población, empezando por los grupos más vulnerables y tras inmunizar a los niños de cara a las navidades. “Los países sin acceso a la vacuna deberían ser nuestra prioridad”, advierte la investigadora, del Centro Nacional de Microbiología, en la localidad madrileña de Majadahonda. Solo tres de cada 100 personas han sido completamente vacunadas contra la covid en los países más pobres del planeta.
+La viróloga Sonia Zúñiga está asombrada. Ómicron es tan diferente del resto de variantes conocidas que algunos científicos han planteado que el virus puede haber evolucionado en paralelo en animales antes de regresar a los humanos. “Es una posibilidad muy real y es algo ciertamente preocupante que habrá que estudiar muy a fondo”, señala Zúñiga, que trabaja en una vacuna experimental contra la covid en el Centro Nacional de Biotecnología (CSIC), en Madrid. La investigadora recuerda que hace más de un año ya se registraron casos en Dinamarca en los que el coronavirus saltó a los visones desde trabajadores de granjas y luego volvió a los humanos con mutaciones adquiridas en los animales. “No sería descabellado. Ya ha pasado”, recalca Zúñiga.
+La hipótesis más barajada, sin embargo, es que ómicron evolucionó durante meses en una persona previamente inmunodeprimida a causa de otra enfermedad, como el sida. Casi uno de cada cinco sudafricanos vive con VIH. El coronavirus habría tenido tiempo para entrenarse frente a unas defensas bajas y un uso desesperado de antivirales. Hace un año, un hombre de 45 años con síndrome antifosfolipídico —un problema en su sistema inmune— permaneció ingresado con covid durante cinco meses en un hospital de Boston, hasta que falleció. Su equipo médico detectó entonces “una evolución acelerada del virus”, con la aparición de las mutaciones Y144-, T478K, E484A y N501Y. Las cuatro están también en ómicron.
+Inmaculada Casas destaca una muy buena noticia. Las mutaciones de ómicron no deberían afectar a la actividad de dos nuevos tratamientos muy prometedores contra la covid: paxlovid, un medicamento de Pfizer que evita el 89% de las hospitalizaciones y los fallecimientos; y molnupiravir, un producto de la farmacéutica MSD cuya eficacia alcanza el 30%. En las 30.000 letras del coronavirus están las instrucciones para fabricar las proteínas de su estructura, como sus espículas y su membrana, pero también hay directrices para producir proteínas no estructurales, que simplemente intervienen en el proceso de multiplicación del virus. Ahí es donde atacan paxlovid y molnupiravir. Y apenas hay mutaciones en esos tramos del genoma. “Las personas con el virus ómicron se podrían tratar con esos antivirales”, tranquiliza Casas.
+Al virólogo colombiano Javier Jaimes, de la Universidad de Cornell (EE UU), le intranquiliza lo que parece un pequeño detalle. La base de datos genómicos Nextstrain muestra una singular secuencia de un virus de la variante ómicron obtenido de un enfermo en Botsuana. Esas 30.000 letras incluyen una mutación que no debería estar ahí: la P681R. “Es la mutación de delta. Eso sí sería preocupante. Sería la cereza en el pastel de ómicron”, alerta Jaimes.
+La espícula del coronavirus tiene forma de hongo. Los virus necesitan cortar la cabeza del hongo para iniciar la invasión de la célula humana. Para ese primer corte utilizan la furina, una proteína que funciona como una tijera. Las simulaciones bioinformáticas de Jaimes sugieren que dos mutaciones de ómicron, la P681H y la N679K , facilitan “ligeramente” este proceso. “Esto podría facilitar el contagio del virus”, advierte el virólogo.
+La secuencia de Botsuana no tiene la mutación P681H característica de ómicron, sino otra en el mismo lugar, la P681R, asociada a la insólita contagiosidad de la variante delta, que dominó el mundo en apenas unos meses tras su detección en India hace un año. El excepcional caso de Botsuana es como ver una versión Frankenstein de algo que ya era Frankenstein. “Hasta ahora solo se ha comunicado una secuencia, pero eso no quiere decir que no puedan aparecer más”, advierte Jaimes.
+Científicos del Instituto Weizmann de Israel calcularon en junio que todos los coronavirus SARS-CoV-2 que infectan a la humanidad, reunidos, apenas pesarían entre 100 gramos y 10 kilos. Los culpables de la pandemia pesan menos que la bolsa de la compra al volver del supermercado. Es posible que todos los virus de la variante ómicron del planeta pesen todavía menos de un gramo, pero ya han provocado el cierre de fronteras en medio mundo.
+Puedes escribirnos a manuel@esmateria.com o seguir a MATERIA en Facebook, Twitter, Instagram o suscribirte aquí a nuestro boletín.
