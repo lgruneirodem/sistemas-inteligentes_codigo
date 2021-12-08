@@ -1,0 +1,13 @@
+Google, India, Brasil, Asia, Justicia
+
+Google bloquea una red de ciberdelincuencia que "secuestraba" un millón de dispositivos
+
+La compañía señala, que los ciberdelincuentes operaban desde Rusia
+
+Google ha revelado este martes que ayudó a bloquear la amenaza de una red de ciberdelincuencia con el control de cerca de un millón de dispositivos electrónicos con los cuales se cometían cibercrímenes, al tiempo que señaló a piratas que operan desde Rusia de ser los responsables.
+La llamada 'red de bots' de dispositivos infectados conocida como Glupteba, la cual fue también usada para hacer minería de criptomonedas de manera subrepticia, fue cortada al menos por ahora de los piratas que la controlaban, anunció el gigante tecnológico.
+"Los operadores de Glupteba posiblemente intenten recuperar el control de la red maliciosa usando mecanismos de control y respaldo", de acuerdo con Shane Huntley y Luca Nagy, analistas de amenazas en línea y ciberseguridad de Google.
+Grandes compañías de tecnología como Google y Microsoft se ven involucradas cada vez más activamente en la lucha contra el crimen informático que se realiza través de sus productos en línea, por lo que estas empresas tienen la mayor comprensión, acceso y capacidad de respuesta a las amenazas.
+Google señaló que la red maliciosa incluía aproximadamente un millón de dispositivos que utilizan Windows en todo el mundo para cometer ataques como el robo de información y credenciales, y se dirigía a usuarios en Estados Unidos, India, Brasil y el sureste de Asia.
+El gigante de Mountain View también presentó una demanda en un tribunal federal de Nueva York contra Dmitry Starovikov y Alexander Filippov en busca de una orden judicial que les impida utilizar sus plataformas de forma maliciosa o criminal.
+Conforme a los criterios deThe Trust Project

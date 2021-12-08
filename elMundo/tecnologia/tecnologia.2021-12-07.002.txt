@@ -1,0 +1,15 @@
+Amazon, Estados Unidos
+
+Prime, Ring y otras aplicaciones de Amazon dejan de funcionar para miles de usuarios
+
+Amazon afirma que la interrupción que ha afectado a clientes de Estados Unidos probablemente se debió a problemas en la interfaz de programación de aplicaciones
+
+Varios servicios de Amazon.com Inc, incluido Prime Video, su sitio web de comercio electrónico homónimo y aplicaciones que utilizan Amazon Web Services (AWS), han dejado de funcionar este martes para miles de usuarios en Estados Unidos.
+Amazon ha dicho que la interrupción probablemente se debió a problemas relacionados con la interfaz de programación de aplicaciones (API), que es un conjunto de protocolos para construir e integrar software de aplicaciones. 
+"Estamos experimentando problemas con la API y la consola en la región US-EAST-1", ha explicado en un informe sobre el estado de sus servicios, y ha agregado que identificó la causa y estaba trabajando para resolver el problema.
+Downdetector mostró más de 24.000 incidentes de personas que reportan problemas con Amazon. Esta página realiza un seguimiento de las interrupciones mediante la recopilación de informes de estado de varias fuentes, incluidos los errores enviados por los usuarios.
+Otros servicios, incluidas las cámaras de seguridad Ring de Amazon,la aplicación de banca móvil Chime y el fabricante de aspiradoras robotizadas iRobot también están sufriendo problemas, según sus páginas de redes sociales.
+Ring ha dicho que estaba al tanto del problema y que estaba trabajando para resolverlo. "Una interrupción importante de Amazon Web Services (AWS) está afectando actualmente nuestra aplicación iRobot Home", ha informado iRobot en su sitio web.
+En junio, sitios web como Reddit, Amazon, CNN, PayPal, Spotify, Al Jazeera Media Network y el New York Times se vieron afectados por una interrupción generalizada de una hora vinculada al proveedor de redes de distribución de contenido con sede en EE. UU. Fastly Inc, un rival más pequeño de AWS. 
+En julio, Amazon experimentó una interrupción en su servicio de tiendas online, que duró casi dos horas y afectó a más de 38.000 usuarios. Los usuarios han experimentado 27 interrupciones en los últimos 12 meses en Amazon, según la herramienta web que revisa el sitio web ToolTester.
+Conforme a los criterios deThe Trust Project

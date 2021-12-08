@@ -1,0 +1,22 @@
+Ciencia y Salud
+
+Los nacidos en verano viven menos que los nacidos en invierno, según un estudio español
+
+Una persona nacida en verano tiene aproximadamente tres meses menos de esperanza de vida que una persona nacida en invierno
+
+Una investigación de la Universitat de València muestra que una persona que nace en verano vive menos que una nacida en invierno y sus responsables apuntan que esta conclusión tendrá repercusiones a la hora de gestionar los sistemas de pensiones y en las compañías aseguradoras.
+ El estudio, realizado por los profesores e investigadores Jose M. Pavía y Josep Lledó del Departamento de Economía Aplicada (área de métodos Cuantitativos para Economía y la Empresa) de la Universitat de València, analiza también los impactos que tiene para aseguradoras y sistemas de pensiones hacer correctamente los cálculos de la esperanza de vida y las probabilidades de muerte y supervivencia.
+ El trabajo lleva por título "Estimation of the combined effects of ageing and seasonality on mortality risk: An application to Spain" y ha sido publicado en una de las revistas de estadística más prestigiosas del mundo, Journal of the Royal Statistical Society, según remarca este jueves la UV.
+ Los investigadores llegan a la conclusión de que una persona nacida en verano tiene aproximadamente tres meses menos de esperanza de vida que una persona nacida en invierno, tras analizar más de 180 millones de eventos demográficos y estudiar las probabilidades de fallecimiento y supervivencia para cada edad y trimestre teniendo en cuenta el trimestre del año de nacimiento de cada persona.
+ Este hecho se debe a que las personas que cumplen años en invierno tienen en común que sus tres trimestres anteriores son menos duros que aquellas personas que cumplen años en el resto de los trimestres. Este efecto es similar tanto en hombres como en mujeres.
+ Por lo tanto, añaden desde la Universitat, la probabilidad de fallecimiento no solo depende de la edad, sino también del trimestre de nacimiento dentro del año.
+ Otras de las conclusiones que se desprenden tiene relación con la edad del individuo, pues por regla general, para una edad en concreto, a mayor proximidad de la siguiente fecha de cumpleaños, mayor es la incidencia de la mortalidad.
+ Este hecho tiene excepciones como, por ejemplo, en las edades adolescentes y especialmente para los recién nacidos. En este último colectivo, las mejoras en medicina han reducido considerablemente la mortalidad infantil (durante el primer año de vida).
+ Sin embargo, aunque ha disminuido, en el estudio realizado se desprende que la probabilidad de fallecimiento en las primeras horas y días sigue siendo considerable.
+ Por ejemplo, la probabilidad de fallecimiento en España durante el primer trimestre de vida es similar a la probabilidad de fallecimiento de una persona de 65 y 70 años para hombres y mujeres, respectivamente.
+ El invierno es, para gran parte de las edades, la estación donde mayor mortalidad se observa, ligado especialmente a las condiciones climatológicas. A mayor edad, mayor es la intensidad del invierno en la mortalidad. Este hecho afecta tanto a hombres como mujeres.
+ Las únicas diferencias observables entre sexos son para los hombres entre 20 y 30 años donde la intensidad de la mortalidad es superior en verano, ligado principalmente a mayores comportamientos de riesgo de los varones jóvenes durante las vacaciones.
+ Los profesores, que investigan en el campo de la estadística y métodos cuantitativos, han analizado un período de cuatro años (2005-2008) de una base de datos real compuesta por microdatos de población de España, facilitadas por el Instituto Nacional de Estadística (INE), que constaba de nacimientos, defunciones, emigrantes e inmigrantes registrados en el Estado durando esos años. Además, han desarrollado nuevas tablas de vida y tablas trimestrales.
+ Según apuntan en el estudio, "la metodología desarrollada en la investigación permite construir, sin necesidad de cálculos complejos y costosos, indicadores de mortalidad (y en particular tablas de mortalidad) con periodicidad inferior al anual".
+ Pavía y Lledó explican que "abordar esta cuestión ofrece nuevas oportunidades para mejorar la gestión de las pensiones, la planificación pública y los planes de seguros, con posibles repercusiones en los sistemas públicos de pensiones y en la competitividad y los balances de las compañías de seguros, donde los cálculos, hasta el momento, se realizan con periodicidad anual".
+Conforme a los criterios deThe Trust Project

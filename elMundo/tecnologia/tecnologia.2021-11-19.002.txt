@@ -1,0 +1,18 @@
+Apple Inc., Comisión Europea, Unión Europea
+
+Apple pide a la Comisión Europea que modifique la propuesta del cable único de carga
+
+La medida choca con los intereses de Apple, que mantiene el puerto Lightning en sus teléfonos pese a adoptar el USB-C en otros productos
+
+Apple ha pedido a la Comisión Europea que reconsidere la normativa de carga única. Aunque todavía no está aprobada, esta propuesta busca que todos los móviles y otros pequeños dispositivos tengan siempre una conexión USB-C en el dispositivo para poder cargarlos con cualquier cargador y cable.
+La razón es medioambiental. Se trata de reducir, en la medida de lo posible, la cantidad de residuos electrónicos que se generan todos los años y, además de unificar los estándares de carga, podría exigir a los fabricante no incluir en las cajas de los dispositivos los cables y cargadores.
+Pero la medida choca frontalmente con los interesas de Apple, que mantiene el puerto Lightning en sus teléfonos (y algunos accesorios) como interfaz para la transmisión de datos y corriente eléctrica. Ahora, en un comunicado público a la Comisión, la empresa californiana pide a los políticos europeos que consideren los efectos que tendría la propuesta tal y como está planteada en este momento.
+El principal argumento de la compañía es que tal y como está concebida la norma, hay un riesgo de que frene la innovación. La propuesta busca estandarizar las soluciones de carga en torno al estándar USB-C, pero este estándar está en continua evolución y la Comisión ha escogido una versión que ya no es la más reciente.
+"El procedimiento para actualizar el texto legal dará lugar a retrasos significativos en la introducción de innovaciones y mejoras al mercado europeo mucho después de que lleguen al resto del mundo", explica Apple.
+Un argumento común que Apple a usado durante los últimos meses para oponerse a la norma es que de haber salido adelante hace años una estandarización en torno al puerto MicroUSB -como llegó a plantearse la Unión Europea-, el desarrollo y adopción de USB-C, con sus ventajas frente a MicroUSB, habría llevado mucho más tiempo.
+El texto de la Comisión, según Apple, también es poco claro sobre algunos de los detalles relacionados con los cargadores, lo que puede generar inconsistencias en la aplicación.
+Apple también apunta que la decisión de la Comisión de prohibir la venta de dispositivos que no usen el estándar USB-C para la carga, incluso aunque ya se hayan lanzado al mercado, resulta una medida
+contraproducente porque obligará a retirar del mercado muchos productos aún funcionales, una medida con contribuirá a aumentar, no disminuir, el problema de la basura electrónica.
+El año pasado, los consumidores europeos compraron más de 420 millones de productos electrónicos, y tiraron aproximadamente 11.000 toneladas métricas de desechos electrónicos a la basura.
+De aprobarse la nueva ley, los fabricantes tendrían dos años para realizar la transición al nuevo estándar de carga. La inmensa mayoría de teléfonos móviles ya se carga a través de USB-C, pero esta nueva medida afecta también a todo tipo de dispositivos electrónicos, incluyendo auriculares, baterías externas o consolas portátiles.
+Conforme a los criterios deThe Trust Project

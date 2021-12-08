@@ -1,0 +1,10 @@
+Coronavirus, Covid 19, Ciencia y Salud, HBPR
+
+Hallan el ácido nucleico que "bloquea" la entrada del coronavirus en las células humanas
+
+El estudio de tres científicos del Instituto Italiano de Tecnología, Scuola Superiore Sant'Anna, Universidad de Milán, ha patentado el primer paso de lo que podría convertirse en un fármaco, basado en el uso de un "aptámero"
+
+Una nueva estrategia para frenar la infección por coronavirus y su rápida propagación entre las células: es el resultado de un estudio conjunto entre el Instituto Italiano de Tecnología, la Scuola Superiore Sant'Anna y la Universidad de Milán, publicado en la revista Pharmacological Research.Paolo Ciana (profesor de Farmacología en la Universidad de Milán), Vincenzo Lionetti (profesor de Anestesiología en la Scuola Superiore Sant'Anna) y Angelo Reggiani (investigador de Farmacología del Instituto Italiano de Tecnología) se preguntaron si existe la posibilidad de bloquear el avance de la infección por alguna variante del Sars-CoV-2, ocultando esa parte del receptor ACE2 (un aminoácido llamado «K353») que el el virus utiliza para entrar en las células humanas.
+Por tanto, los científicos han patentado la primera pieza de lo que podría convertirse en un fármaco, basándose en el uso de un "aptámero" de ADN, o una cadena sencilla de oligonucleótidos, capaz de unirse específicamente a K353, haciéndolo inaccesible a la proteína pico de cualquier coronavirus y previniendo así la infección celular. 
+Según los autores, "gracias a este estudio será posible desarrollar un nuevo enfoque terapéutico de precisión para prevenir la infección grave por Covid, sin estimular el sistema inmunológico ni tener efectos secundarios importantes". Angelo Reggiani explica la importancia del descubrimiento.
+Conforme a los criterios deThe Trust Project

@@ -1,0 +1,21 @@
+Microsoft, Android, Samsung
+
+Windows volverá a los ordenadores de Apple
+
+Los nuevos Mac con procesadores M1 no son compatibles ahora mismo con Windows, que sí podía instalarse en los anteriores modelos
+
+Apple está inmersa desde hace un año en un proceso de transición para sus ordenadores Mac. La empresa abandonará los procesadores Intel y la arquitectura X86 y a partir del próximo años usará exclusivamente procesadores diseñados por la propia compañía.
+Los primeros procesadores, los M1, M1 Pro y M1 Max ya han llegado a algunas de las máquinas del catálogo y, en general, con buenos resultados. Los portátiles y ordenadores de escritorio fabricados con ellos son más potentes y eficientes que los que hasta ahora utilizaban procesadores Intel.
+Pero hay un pequeño problema: no pueden ejecutar de forma nativa el sistema operativo Windows.
+Desde el año 2006, Apple permitía a los usuarios de Mac crear una partición dentro del disco duro de los Mac e instalar en ella una copia de Windows. Esta opción, conocida como Boot Camp, permite usar aplicaciones que de otra forma no estarían disponibles en el sistema operativo macOS. Es especialmente útil para juegos, ya que hay muchos títulos que no tienen soporte para macOS.
+Pero la existencia de Boot Camp era posible porque tanto los Mac como la mayoría de ordenadores PC con Windows utilizaban los mismos procesadores. Apple sólo tenía que añadir soporte para los diferentes componentes del equipo (teclados, pantalla y demás) y todo funcionaba bastante bien.
+El salto a una nueva arquitectura propia ha acabado con esta posibilidad. Microsoft tiene una versión de Windows pensada para ordenadores con procesadores de arquitectura similar a los nuevos M1 de Apple (ARM) pero de momento no hay algo parecido a Boot Camp en los nuevos Mac que permita instalarla.
+La única opción, hasta el momento, es ejecutar esta versión especial de Windows dentro de un entorno virtualizado, como los que ofrecen herramientas de software como Parallels o VMWare.
+Estas soluciones, que simulan un ordenador completamente independiente en la memoria del Mac, tienen sin embargo un impacto en la potencia de las máquinas y no son compatibles con todas las aplicaciones. Windows 11 para ARM incluye la opción de emular un procesador de arquitectura similar a los de Intel para ejecutar aplicaciones no compatibles, pero esto también resta potencia al procesador. La experiencia, por tanto, no es muy buena. 
+El problema podría solucionarse pronto. Según la publicación XDA la razón por la que aún no hay una solución similar a Boot Camp que permita instalar Windows de forma nativa en un Mac es que Microsoft tiene un acuerdo de exclusividad con Qualcomm para la versión ARM de Windows.
+Qualcomm y Microsoft empezaron a trabajar en portátiles con procesador ARM en el año 2016 y como parte de la iniciativa, Qualcomm negoció ser el único proveedor de procesadores.
+Este acuerdo caducará pronto, lo que permitiría a otras empresas de semiconductores, como Samsung o Mediatek, crear procesadores de arquitectura ARM para futuros PCs.
+Pero también facilitará a Microsoft distribuir copias de Windows 11 listas para instalar en los Mac con procesadores M1, M1 Pro y M1 Max, o cualquier modelo futuro con procesadores de Apple.
+Hasta el momento, Qualcomm sólo ha realizado pequeñas adaptaciones de sus chips de móviles más potentes para esta versión de Windows. Hay portátiles a la venta que utilizan Windows para ARM y procesadores Snapdragon (la línea de chips de procesadores de Qualcomm que es habitual ver en muchos móviles Android), pero se trata de máquinas muy centradas en la portabilidad y muy poco potentes.
+Qualcomm ya ha confirmado que trabaja en procesadores específicamente diseñados para ordenadores, no para móviles, y que serán comparables en potencia con las soluciones que Apple ha creado para sus Mac.
+Conforme a los criterios deThe Trust Project

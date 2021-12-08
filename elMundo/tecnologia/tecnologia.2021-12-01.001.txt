@@ -1,0 +1,16 @@
+Android, iPhone
+
+Así es el procesador que llevarán los móviles de alta gama de Android en 2022
+
+Snapdragon 8 Gen 1 será el sustituto del Snapdragon 888, el actual procesador más potente del mercado para móviles Android
+
+Es muy pronto aun para saber cómo serán los mejores teléfonos Android que veremos en 2022, pero lo que sí sabemos ya es el procesador que llevarán muchos de ellos. Qualcomm, que fabrica la mayoría de procesadores para móviles, ha adelantado ya los detalles del que será su mejor chip del año, el Snapdragon 8 Gen 1.
+Si el nombre suena algo extraño es porque la empresa va a utilizarlo como punto de partida para una nueva estrategia de imagen. Snapdragon va a pasar a ser una marca independiente y la nomenclatura de los chips se va a simplificar con respecto a la actual. El Snapdragon 8 Gen 1, por ejemplo, será el sustituto del actual Snapdragon 888 y le seguirá, supuestamente en 2023, el Snapdragon 8 Gen 2 y así sucesivamente.
+El chip trae cambios importantes tanto a nivel gráfico como en capacidad de proceso. Estará fabricado sobre la nueva arquitectura ARMV9 de Arm. El chip tendrá 4 núcleos de bajo rendimiento, tres de medio y un núcleo muy potente, el Cortex X2, que se utilizará en tareas intensivas y será un 20% más potente (o un 30% más eficiente, según lo que se requiera en un momento dado) que el actual Cortex X1 de los Snapdragon 888.
+Qualcomm ha avanzado también que las capacidades gráficas serán muy superiores gracias a una nueva generación de GPU Adreno, que serán un 30% más rápidas a la hora de realizar los cálculos necesarios.
+Los avances más notables, sin embargo, estarán en el módulo de proceso dedicados a fotografía, que se han rediseñado para proporcionar mejor soporte a las futuras cámaras de los Android. Qualcomm ha bautizado este nuevo componente como Snapdragon Sight y permitirá operar con un mayor volumen da datos provenientes del sensor.
+Ofrece, por ejemplo, soporte de color de 18 bits en lugar de los 14 de los anteriores procesadores de imagen. Este número supondrá una ayuda, sobre todo, a la hora de crear imágenes de alto rango dinámico (HDR), ya que permite exprimir mucha más información de las varias capturas realizadas para generar la imagen final.
+El módulo será capaz de procesar también mejores fotografías nocturnas gracias a su capacidad para combinar y alinear automáticamente hasta 30 tomas consecutivas.
+Por último, el chip incluirá un módulo especialmente diseñado para ayudar con el modo retrato en vídeo de hasta 4K de resolución, lo que quiere decir que los fabricantes lo tendrán más fácil para crear modos de grabación de vídeo que compitan con el "modo cinemático" de los iPhone.
+Los nuevos chips incorporarán un módem compatible con 5G, el X65. Este módem se vendía ya como un componente adicional a los fabricantes que lo requerían en sus teléfonos, pero ahora vendrá integrado de serie en todos los chips.
+Conforme a los criterios deThe Trust Project

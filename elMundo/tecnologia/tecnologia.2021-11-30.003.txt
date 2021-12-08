@@ -1,0 +1,15 @@
+Microsoft, Unión Europea, Comisión Europea, Google, Amazon
+
+Una coalición de empresas europeas denuncia a Microsoft por la integración de OneDrive y Teams
+
+La coalición ha denunciado que Microsoft "presiona agresivamente a los consumidores para que se registren y entreguen sus datos"
+
+Una coalición de empresas de 'software' y 'cloud' de la Unión Europea se ha sumado a una denuncia presentada por Nextcloud contra Microsoft en la Comisión Europea por considerar que la integración de aplicaciones como OneDrive y Teams en los sistemas operativos Windows resulta anticompetitiva para los desarrolladores independientes.
+En los últimos años, gigantes tecnológicos como Microsoft, Google y Amazon han aumentado su cuota de mercado de 'software' como servicio (SaaS, por sus siglas en inglés) hasta el 66 por ciento en Europa, mientras que los proveedores locales oscilan entre el 26 y el 16 por ciento.
+La coalición ha denunciado que Microsoft integra servicios como OneDrive y Teams en su sistema operativo Windows y con ello "presiona agresivamente a los consumidores para que se registren y entreguen sus datos".
+Esta práctica, denominada de "autopreferencia", "limita la elección del consumidor y crea una barrera para otras empresas que ofrecen servicios competidores", en especial las locales con productos especializados, como han denunciado los firmantes de la denuncia.
+Así lo recoge en un comunicado la compañía alemana de 'software' Nextcloud, a cuya denuncia contra Microsoft, presentada a la Comisión Europea, se han sumando 29 compañías y organizaciones europeas del sector.
+La situación con las aplicaciones de Microsoft 365 en Windows se ha comparado con la integración de Internet Explorer en este sistema operativo a principios de los 2000, que afectó negativamente al desarrollo de otros navegadores y por la que Microsoft ya fue multada en la Unión Europea con 1.670 millones de euros hasta 2009.
+"Este tipo de comportamiento es malo para el consumidor, para el mercado y, por supuesto, para las empresas locales de la UE", ha afirmado el director ejecutivo y fundador de Nextcloud GmbH, Frank Karlitschek.
+"Junto con los demás miembros de la coalición, estamos pidiendo a las autoridades antimonopolio en Europa que impongan un campo de juego equitativo, dando a los clientes una libre elección y una oportunidad justa para la competencia", ha añadido Karlitschek.
+Conforme a los criterios deThe Trust Project

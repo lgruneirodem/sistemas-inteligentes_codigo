@@ -1,0 +1,15 @@
+WhatsApp
+
+WhatsApp cambia de look: así es la nueva versión que llegará pronto a ordenadores
+
+El diseño de la app de WhatsApp para PC y para Mac cambiará muy pronto de aspecto para acomodarse a la estética de ambos sistemas
+
+La aplicación de mensajería WhatsApp ha comenzado a permitir a sus usuarios que instalen su nueva app para la plataforma universal de Windows (UWP, en sus siglas en inglés), aunque de momento esta se encuentra en fase beta.
+ El portal especializado WABetaInfo dio a conocer este lunes los avances de WhatsApp en el desarrollo de dos nuevas versiones de su aplicación: la primera para ordenadores Windows, mediante el formato UWP, y la segunda para ordenadores Mac con macOS Catalyst.
+ Estas aplicaciones para escritorio son independientes de la experiencia para ordenadores mediante WhatsApp Web y extienden el modo multidispositivo de la plataforma, introducido recientemente y que no requiere tener conectado el teléfono móvil.
+ Ahora, WABetaInfo ha compartido más detalles sobre la beta de WhatsApp para Windows. Aunque se encuentra en desarrollo, los usuarios ya cuentan con formas para instalar la app del servicio en UWP en Xbox, Windows 10 y versiones posteriores.
+ Esta nueva versión de la 'app' de mensajería ya puede descargarse en beta desde la Microsoft Store, y para iniciar sesión el usuario tendrá que hacerlo desde el apartado 'dispositivos sincronizados' de la cuenta de WhatsApp y escanear el código QR del ordenador.
+ WABetaInfo ha advertido de que, aunque el funcionamiento de la beta de la 'app' para Windows es generalmente estable, algunas características como los chats archivados, las actualizaciones de los estados y los 'stickers' no están disponibles de momento.
+ Asimismo, la nueva aplicación en beta está dotada con un botón de 'feedback' con el que los usuarios que la prueben pueden dar su opinión a los desarrolladores y proponer cambios y mejoras de cara a la creación de la versión estable.
+El diseño de la 'app' también se ha modificado; tiene la apariencia de cualquier aplicación nativa de Windows 10, ha desaparecido el fondo gris de las barras inferior y superior, y se ha ampliado el nombre del usuario del chat con el que se está hablando, de quien ahora se muestra la imagen a la derecha.
+Conforme a los criterios deThe Trust Project
