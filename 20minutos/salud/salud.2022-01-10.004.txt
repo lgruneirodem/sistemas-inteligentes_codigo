@@ -1,0 +1,21 @@
+genética, Esquizofrenia, Universidad de Cambridge, Genoma, Síntomas
+
+Encuentran pistas sobre el origen de la esquizofrenia y el trastorno bipolar en el 'genoma oscuro'
+
+
+
+Algunos trastornos psiquiátricos, como el trastorno bipolar o la esquizofrenia, plantean un enigma para los científicos: son muchos lo que se preguntan cómo es posible que persistan en las poblaciones a pesar de que dañan de manera importante la capacidad reproductiva de las personas afectadas.
+Ahora, un grupo de investigadores de la Universidad de Cambridge propone que la respuesta a este misterio podría encontrarse en lo que llaman 'genoma oscuro', tal y como explican en un artículo publicado en el medio especializado Molecular Psychiatry.
+Lo primero que hay que comprender es que los genes, tal y como están convencionalmente definidos, sólo conforman en torno a un 1 o un 2% del total del genoma humano. El resto es lo que los científicos llaman 'genoma oscuro'.
+Tal y como argumentan los autores del estudio, la definición conservadora de gen ha centrado el estudio genético en esta unidad, ignorando en cambio el resto del genoma. Sin embargo, son varios los genetistas que ya han apuntado a la existencia de 'genes ocultos' en el 'genoma oscuro' que a menudo pasan desapercibidos para las tecnologías de secuenciación actuales.
+Estos 'genes ocultos', señalan, tienen básicamente la misma capacidad que los genes convencionales: la de codificar proteínas, que son las que determinan de que modo se van a desarrollar los diferentes procesos corporales.
+Tanto el trastorno bipolar como la esquizofrenia plantean un problema para los científicos, ya que pese a que se ha demostrado que son principalmente de componente hereditario (aproximadamente un 70% de la tendencia a desarrollar estos trastornos se puede explicar de este modo), su prevalencia se mantiene estable, en torno a un 1% en todo el mundo. Normalmente, cuando una variante genética tiene tal impacto en la vida (y por tanto en las expectativas reproductivas) de una persona, su incidencia tiende a decrecer con el tiempo.
+En este sentido, existía previamente la hipótesis de que los mismos genes que causan estas condiciones podían, en las personas que no las desarrollaban, aumentar las expectativas reproductivas (por ejemplo, aumentando la creatividad). Esta teoría achacaría así las condiciones a una mayor vulnerabilidad a la psicosis derivada de mutaciones relativamente recientes, que por otro lado habrían permitido el excepcional desarrollo cognitivo de la especie humana.
+Sin embargo, toda la investigación genética que se ha llevado a cabo para tratar de validar esta tesis ha resultado, hasta ahora, inconcluyente.
+La clave que une el trastorno bipolar y la esquizofrenia con el genoma oscuro, señalan los investigadores, podría estar en determinadas proteínas producidas por los 'genes ocultos' en las mismas regiones del genoma que aparentemente son responsables de las particularidades cognitivas del ser humano. 
+Y es que, en este sentido, los autores de este trabajo han encontrado determinadas proteínas involucradas en varios procesos biológicos que parecen ser disfuncionales en las personas con este tipo de trastornos.
+Trazando su procedencia, han podido crear un catálogo de 56 genes ocultos asociados de esta forma con la esquizofrenia y 40 asociados con el trastorno bipolar.
+Además, este descubrimiento no sólo parece arrojar algo de luz sobre el origen de estas dos condiciones psiquiátricas, sino que, señalan, podría también abrir la puerta al desarrollo de tratamientos farmacológicos que intervengan en estas proteínas y mejoren el pronóstico y la vida de los pacientes.
+Aún así, todavía es necesario tomar estos resultados con cierta cautela. Por una parte, los autores señalan que probablemente, y si su teoría es cierta, el catálogo que han elaborado recoja tan sólo una pequeña parte de los 'genes ocultos' involucrados en estas dos condiciones. 
+Por otra parte, y dado que el método de esta investigación consiste en el análisis computacional, los investigadores especifican que es necesario analizar en profundidad la estructura y la función de cada 'gen oculto', algo en lo que se encuentran inmersos.
+Finalmente, defienden también que es importante tener en cuenta los factores ambientales que parecen jugar un papel relevante en el desarrollo de estas condiciones.

@@ -1,0 +1,12 @@
+Grafeno
+
+Un nuevo grafeno podría sustituir al actual material de las pantallas táctiles
+
+
+
+Un equipo de investigadores de Paragraf y de la Universidad Queen Mary de Londres ha demostrado que el grafeno es un material que puede reemplazar al óxido de indio y estaño (ITO) en un dispositivo electrónico u óptico. 
+La investigación, que ha sido publicada en la revista 'Advanced Optical Materials', ha fabricado con éxito un diodo emisor de luz orgánico con un ánodo de grafeno monocapa, que reemplaza al material descrito anteriormente en dispositivos como las pantallas de los teléfonos móviles.
+Supone todo un descubrimiento porque este material es uno de los nueve elementos más extraños de la corteza terrestre y se encuentra dentro de la lista de materiales críticos de la Unión Europea. A pesar de esto, se utiliza con bastante frecuencia en forma de óxido de indio y estaño, sobre todo para la fabricación de las pantallas táctiles de móviles y ordenadores.
+"Debido a su importancia y escasez, ha habido muchos intentos de reemplazar ITO, pero hasta ahora no se ha encontrado ningún material que tenga un rendimiento comparable en un dispositivo electrónico u óptico", detalla el profesor Colin Humphreys de Queen Mary y Paragraf. 
+Esta investigación es la primera a nivel mundial capaz de demostrar que el grafeno puede reemplazar a este material. "Hemos demostrado que un grafeno-OLED tiene un rendimiento idéntico al de un ITO-OLED. Los ITO-OLED se utilizan ampliamente como pantallas táctiles en nuestros teléfonos móviles", añade el experto y autor de la investigación.
+El grafeno es una sola capa de átomos de carbono. En este sentido, "el carbono es muy abundante en la Tierra y, a diferencia del indio, es un material sostenible", detallan en un comunicado oficial los investigadores. Esta investigación abre el camino a un cambio en la tecnología del futuro a la hora de fabricar dispositivos electrónicos.

@@ -1,0 +1,13 @@
+Whatsapp, Actualizaciones, iOS, Aplicaciones móvil
+
+Las imágenes de perfil de WhatsApp podrán verse en las notificaciones
+
+
+
+Las imágenes de perfil de WhatsApp podrán visualizarse pronto en las notificaciones automáticas de los mensajes. En esto trabaja la aplicación que, mediante una nueva actualización, pretende que esté disponible próximamente en los dispositivos iOS.
+WABetaInfo ha explicado que esta nueva función es compatible con la primera interfaz de programación de aplicaciones (API) en iOS 15 y ya está disponible para algunos probadores que utilizan la última versión de la aplicación de mensajería beta para iOS 15 (v2.22.1.1 o superior).
+Además de esto, WhatsApp también ha implementado el soporte para el modo concentración y la información en las notificaciones cuando los contactos mencionan o responden a los mensajes en chats grupales; opción que únicamente será posible en los chats de grupo.
+En dicha actualización, plantea también cambiar de ubicación los botones en los que se puede leer ‘Listas de difusión’ o ‘Nuevo grupo’ que, actualmente, se encuentran en el apartado de ‘Más opciones’.
+Por el momento, estas opciones se implementarán en dispositivos iOS, ya que WhatsApp no ha comunicado que también vaya a hacerlo con el sistema operativo Android.
+Sin embargo, sí que ha confirmado que las nuevas actualizaciones corrigen errores y añaden un espacio que bajo el nombre de ‘Comunidades’ podrá vincular hasta diez grupos de manera simultánea en un grupo aparte.
+Asimismo, WABetaInfo ha adelantado también que los filtros de búsqueda avanzada ya están disponibles para cuentas comerciales en la versión Business beta tanto de Android como de iOS.
