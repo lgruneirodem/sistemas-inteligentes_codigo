@@ -1,0 +1,22 @@
+Astronomía, Sol
+
+Científicos observan por primera vez cómo un exoplaneta ha sido deformado por su estrella anfitriona
+
+
+
+Un equipo internacional de científicos ha observado por primera vez cómo un exoplaneta ha sido deformado por la fuerza de su estrella anfitriona, un efecto conocido como 'balón de rugby' del que, hasta ahora, los astrónomos solo habían teorizado.
+Los resultados de este trabajo, en el que han participado investigadores del Centro de Astrobiología (CAB), se publican hoy en la revista Astronomy & Astrophysics.
+Los datos, proporcionados por la misión CHEOPS de la Agencia Espacial Europea (ESA), revelan que el exoplaneta WASP-103b ha sido deformado por las potentes fuerzas de marea entre el planeta y su estrella anfitriona, WASP-103, más caliente y más grande que nuestro Sol.
+"Este exoplaneta tarda menos de un día en dar la vuelta a su estrella y su forma es más parecida a la de un balón de rugby que a la de una esfera", dice Jorge Lillo-Box, investigador del Centro de Astrobiología y coautor del estudio.
+El fenómeno no es extraño. En la Tierra, por ejemplo, se producen las mareas de los océanos, resultado de la influencia de la Luna que 'tira' ligeramente de nuestro planeta mientras nos orbita.
+El Sol también tiene un efecto, pequeño pero significativo, sobre las mareas, pero está demasiado lejos de la Tierra como para causar grandes deformaciones.
+En este caso, la estrella alrededor de la cual gira el exoplaneta, denominada WASP103, en la constelación de Hércules, tiene una temperatura similar y es unas 1,7 veces más grande que nuestro Sol.
+El exoplaneta, WASP-103b, es un planeta gigante gaseoso con casi el doble del tamaño de Júpiter y 1,5 veces su masa y su extrema cercanía a su estrella anfitriona podría causar mareas gigantescas, algo que hasta ahora no había podido confirmarse.
+Utilizando nuevos datos del telescopio espacial Cheops de la ESA, combinados con datos obtenidos por el Telescopio Espacial Hubble de la NASA/ESA y el Telescopio Espacial Spitzer de la NASA, la comunidad astronómica ha podido detectar cómo las fuerzas de marea deforman al exoplaneta WASP-103b, dándole una forma ovalada.
+Estos datos se han complementado con imágenes de alta resolución espacial del instrumento AstraLux, en el Observatorio de Calar Alto (Almería), gracias a los cuales se ha podido confirmar el origen de la señal.
+Cheops mide los tránsitos de exoplanetas, es decir, los cambios de luz que se producen cuando un planeta pasa por delante de su estrella pero en esta ocasión, su alta precisión ha permitido detectar la diminuta señal que indica que WASP-103b está sufriendo una deformación causada por las fuerzas de marea.
+Los datos de Cheops han permitido también derivar un parámetro denominado número de Love, que mide cómo se distribuye la masa dentro de un planeta, lo que puede dar información sobre su estructura interna y los materiales y determinar en qué proporción puede ser rocosa, gaseosa o líquida.
+"Entender esta estructura interna es esencial para comprender los procesos de formación y evolución de sistemas planetarios", apunta Jorge Lillo-Box.
+El número de Love del exoplaneta WASP-103b es similar al de Júpiter, lo que sugiere que la estructura interna podría ser similar, a pesar de que WASP-103b tiene el doble de radio.
+Esto se debe a que está 'inflado', probablemente por el calor que emana su estrella anfitriona y por otros mecanismos que en el futuro se podrán estudiar con el Telescopio James Webb, el mayor observatorio espacial de la historia que ayudará a averiguar muchas más cosas sobre la estructura interna y el núcleo de los exoplanetas y, por tanto, sobre su formación.
+El estudio también señala que el periodo orbital de WASP-103b podría estar aumentando y que el planeta se está alejando lentamente de la estrella, lo que indicaría que, junto a las fuerzas de marea, hay otro factor que influye en el planeta pero será necesario llevar a cabo más observaciones para averiguar por qué está ocurriendo esto. 

@@ -1,0 +1,13 @@
+Diabetes, Salud, Inteligencia artificial, Glucosa, Noticias de tecnología, Tech
+
+Inventan un dispositivo que puede medirte el nivel de glucosa en sangre sin pinchazos
+
+
+
+Los investigadores siguen con el objetivo de averiguar métodos alternativos para la monitorización de la glucosa en sangre, de esta manera, serían capaces de evitar los pinchazos en los dedos. La última propuesta ha sido elaborada por la compañía Scanbo, proponiendo un sistema que combina herramientas de diagnóstico no invasivas con el aprendizaje automático.
+A través de la tecnología médica y la inteligencia artificial, el usuario deberá posar sus manos durante 60 segundos en un medidor no invasivo para realizar las lecturas necesarias con el objetivo de calcular automáticamente el nivel de glucosa en sangre.
+Gracias a la medición de signos vitales y la monitorización de frecuencia cardíaca consiguen sacar el resultado. Además, la fotopletismografía (PPG) que utiliza sirve para medir la variación del volumen sanguíneo como resultado de la actividad cardíaca.
+Dicho dispositivo toma los datos sin procesar y los pasa por una red neuronal convolucional y profunda, así pues, el proceso emplea algoritmos para que el usuario reciba el resultado de la glucosa en sangre.
+Algunas compañías como Samsung, LG o Medtronic han despertado su interés por este producto, aunque Scanbo tiene la intención de ofrecer este producto individualmente a pesar de que tiene mucho trabajo por delante hasta que se venda el dispositivo de manera oficial.
+De momento se van a centrar en los ensayos clínicos que muestren las capacidades de la innovación para empezar una ronda de financiación. Una vez realizado esta parte del proceso, lucharán por conseguir el aprobado por parte de la Administración de Medicamentos y Alimentos para empezar a comercializarlo en Estados Unidos.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

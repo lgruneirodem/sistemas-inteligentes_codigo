@@ -1,0 +1,16 @@
+China, Luna, Agua, Equipo de investigación
+
+El módulo Chang'E-5 detecta 'in situ' señales de agua en la Luna
+
+
+
+Los datos recogidos por el módulo chino Chang'E-5 en la superficie lunar señalan la existencia de agua, lo que supone la primera detección in situ de este líquido, según un estudio que publica Science Advances.
+Un equipo de investigación dirigido por el Instituto de Geología y Geofísica de la Academia China de Ciencias, observó señales de agua en los datos espectrales de reflectancia de la superficie lunar adquiridos por Chang'E-5.
+Numerosas observaciones orbitales y mediciones de muestras realizadas en la última década han aportado pruebas de la presencia de agua (en forma de hidroxilo y/o H2O) en la Luna, sin embargo, nunca se habían realizado mediciones in situ en su superficie.
+El módulo alunizó en diciembre de 2020 en Mons Rümker, en el Oceanus Procellarum, en la cara visible de la Luna, uno de los basaltos marinos más jóvenes, ubicado en una latitud media-alta de la Luna. Su misión era tomar muestras, en total 1.731 kilos, y traerlas a la Tierra, lo que hizo ese mismo mes.
+Antes de tomar las muestras, el espectrómetro mineralógico lunar (LMS) a bordo del módulo de aterrizaje realizó mediciones de reflectancia espectral del regolito y de una roca, proporcionando así la oportunidad de detectar agua en la superficie lunar.
+El análisis espectral cuantitativo indica que el suelo lunar del lugar de aterrizaje contiene menos de 120 partes por millón de agua, lo que coincide con el análisis preliminar de las muestras devueltas de Chang'E-5, indicó la Academia China de Ciencias en un comunicado.
+Por el contrario, una roca ligera y vesicular (con pequeñas cavidades esféricas) que también se analizó mostró una absorción mucho más fuerte, correspondiente a una estimación de unas 180 partes por millón de agua, lo que "sugiere una fuente adicional de agua del interior lunar".
+Los resultados de los análisis de composición y de teledetección orbital muestran que la roca pudo proceder de una unidad basáltica más antigua y expulsada al lugar de aterrizaje de Chang'E-5.
+El menor contenido de agua del suelo, en comparación con el del fragmento de roca, sugiere que se produjo la desgasificación del depósito del manto bajo el lugar de aterrizaje de Chang'E-5.
+Este descubrimiento proporciona un contexto geológico vital para el análisis de las muestras traídas a la Tierra por la sonda china.

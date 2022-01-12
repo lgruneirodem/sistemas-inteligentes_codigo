@@ -1,0 +1,14 @@
+Spiderman, Ordenador, Electricidad, Moneda virtual, Malware, Ciberseguridad, Criptomonedas, Marvel, Taquilla
+
+Así están usando la película 'Spider-Man: No Way Home' como cebo para colarte un malware para minar criptomonedas en tu ordenador
+
+
+
+Para minar criptomonedas a través de un malware se necesita infectar a una gran cantidad de dispositivos para tener resultados. Con el objetivo de que varias personas ejecuten el archivo malicioso en sus ordenadores, la compañía de ciberseguridad ReasonLabs ha descubierto que están utilizando la película más taquillera de las últimas semanas ‘Spider-Man: No Way Home’.
+Según ReasonLabs, una web rusa ha subido un malware que mina Monero en un archivo de Torrent que promete ser el último filme de Marvel. El nombre del programa que han descubierto es ‘spiderman_net_putidomoi.torrent.exe’ y contiene un programa que mina la criptomoneda en segundo plano.
+Los ciberdelincuentes han aprovechado que Spider-Man: No Way Home está siendo muy exitosa en las salas de cine para engañar a los usuarios más despistados. Sin embargo, los que conozcan más sobre el tema, habrán podido conocer antes de descargar que se trata de un archivo ejecutable de Torrent y no uno de vídeo.
+Al abrir el programa en el ordenador, va creando archivos y procesos aparentemente normales. Detrás de esto, se encuentra una versión de un programa de minería de dinero virtual que se llama ‘SilentXMRMiner’ y tiene su código fuente completamente gratuito en GitHub.
+A través de este malware, los atacantes han podido agregar excepciones generales a Microsoft Defender. De este modo, el suceso ha pasado desapercibido por las víctimas, que no se han percatado de que se están minando criptomonedas en segundo plano.
+Si descargas una película mediante Torrent, es importante que te percates en el tipo de archivo que vas a instalar en tu dispositivo. Un archivo de vídeo comúnmente termina en .mp4 o .mkv y no en .exe. Antes de darle al botón de descargar, cerciórate de qué tipo de archivo descargas revelando las extensiones ocultas en el explorador de Windows.
+Cabe señalar que los malwares que minan criptomonedas, como el que han usado con la falsa película de Spider-Man: No Way Home, puede robar tu información personal. Además, este tipo de archivos maliciosos también pueden suponer que el ordenador vaya más lento y que se consuma más electricidad.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

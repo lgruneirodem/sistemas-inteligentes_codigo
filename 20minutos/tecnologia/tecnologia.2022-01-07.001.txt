@@ -1,0 +1,15 @@
+Vodafone, Amazon, Estafas, correo electrónico, España, Ciberseguridad, iPhone 13
+
+Suplantan la identidad de Amazon y Vodafone para que las víctimas rellenen encuestas con sus datos bancarios
+
+
+
+Los estafadores recurren a diversas técnicas para engañar a sus víctimas, sin embargo, una de sus favoritas es la de hacerse pasar por compañías conocidas y fingir que están entregando regalos. La compañía de ciberseguridad ESET ha detectado que los delincuentes han suplantado la identidad de Amazon y Vodafone para realizar acciones fraudulentas.
+“Estas empresas y los supuestos premios son usadas como gancho para que los usuarios introduzcan datos personales como los de su tarjeta de crédito”, informa ESET desde su cuenta de Twitter. Los ciberdelincuentes prometen premios u ofertas tentadoras a cambio de rellenar una encuesta con algunos datos personales.
+📋 Amazon y Vodafone suplantados de nuevo usando falsas encuestas con premios tecnológicos. 🎁 Estas empresas y los supuestos premios son usadas como gancho para que los usuarios introduzcan datos personales como los de su tarjeta de crédito.➡️ https://t.co/XaSaasHxHa pic.twitter.com/gHF09vHqNy
+En el caso de los suplantadores de Amazon, el correo electrónico hace mención a LinkedIn. Según ESET, al pulsar sobre el enlace, el usuario accede a una supuesta página de la compañía en la que puede ganar un iPhone 13 Pro.
+Para conseguir el dispositivo móvil, la web fraudulenta explica que se debe rellenar una encuesta. “Una vez completada esta encuesta en la que solo se pregunta información básica como la edad, género o hábitos de compra, se nos presenta un pequeño juego en el que deberemos abrir cajas de regalo”, comenta ESET.
+Los usuarios se pueden ver tentados a facilitar sus datos a raíz de los comentarios que aparecen debajo de supuestas personas que agradecer haber recibido uno de los últimos smartphones de Apple. No obstante, en realidad se trata de una estafa con la que los ciberdelincuentes pretenden hacerse con los datos de sus víctimas.
+Por otro lado, la estafa de Vodafone usa una plantilla de correo de una compañía que no está ni siquiera operativa en España. Sin embargo, el email fraudulento se envía de forma aleatoria, sin tener en cuenta la ubicación del destinatario.
+En el caso de que la víctima que haya recibido el correo electrónico sea de España y pulse en el enlace que se proporciona, se redirigirá a una página web que suplanta la identidad de Vodafone. Según prometen falsamente en la página, la empresa de telecomunicaciones ofrece la posibilidad de ganar un premio rellenando una encuesta, como ocurre con la estafa de Amazon.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

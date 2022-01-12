@@ -1,0 +1,16 @@
+Unión Europea, Terrorismo, Europol, Ciberseguridad, GDPR Reglamento general de protección de datos, Privacidad
+
+La Europol deberá eliminar tus datos si no estás claramente vinculado con un crimen
+
+
+
+El Supervisor Europeo de Protección de Datos (SEPD) obligará a Europol a borrar los datos de las personas que no estén involucradas en un crimen cuando pasen 6 meses. Según detalla la Europol, esta medida limitará la capacidad de sus operaciones.
+Esta decisión afecta a las personas que no están categorizadas de interés en una investigación, es decir, los ya condenados, los investigados o los testigos, entre otros. El SEPD ha dado hasta un año a Europol para que pueda buscar en sus bases de datos y eliminar los datos que no puedan vincularse a una investigación criminal.
+Sobre esto, The Guardian apunta que la información almacenada en los sistemas de Europol ocupa en total cuatro petabytes, lo cual equivaldría a cientos de miles de millones de páginas de texto impreso. Entre todos estos datos, el medio de comunicación asegura que se encuentran los de un cuarto de millón de terroristas, sospechosos y otras personas en sus redes de contactos.
+La mayoría de los datos almacenados en los sistemas de Europol se han extraído de investigaciones criminales llevadas a cabo por las autoridades policiales de los Estados miembro de la UE. Estos documentos fueron compartidos posteriormente con Europol.
+En el texto publicado en el que se notifica la decisión del SEPD, se hace referencia a una investigación que se hizo en 2019 a Europol. Mediante esta investigación se conoció que el organismo europeo almacenaba datos personales sobre sospechosos de delitos graves y terrorismo sin controles adecuados.
+Frente a esta información, el SEPD envió una notificación de amonestación a Europol por incumplir la protección de datos, ya que ponía en riesgo a los residentes de la UE de ser vinculados indebidamente a actividades delictivas. “Si bien Europol ha implementado algunas medidas desde entonces, Europol no ha cumplido con las solicitudes de SEPD”, detallan en un comunicado de prensa.
+Michael Veale, profesor asociado de derechos digitales y regulación de la Facultad de Derecho del University College London, asegura que Europol dispone de datos de personas que “no siente que pueda calificar como ‘sospechosos’, ‘futuros potenciales criminales’, ‘contactos y asociados’, ‘víctimas’, ‘testigos’ e ‘informantes’”.
+Esta decisión pone en discusión los límites de la Unión Europea en lo que respecta a la seguridad del ciudadano y su privacidad. Ylva Johansson, la comisionada de Asuntos Internos de la UE, explicó a The Guardian que “las autoridades encargadas de hacer cumplir la ley necesitan las herramientas, los recursos y el tiempo para analizar los datos que se les transmiten legalmente”.
+Por su parte, Gabriela Zanfir-Fortuna, vicepresidenta para la privacidad global en el grupo de expertos Future of Privacy Forum asegura que las investigaciones deben respetar la protección de datos: “En un estado de derecho, las actividades policiales deben seguir el marco legal”.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.
