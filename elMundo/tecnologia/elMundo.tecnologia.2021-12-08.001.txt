@@ -1,0 +1,18 @@
+Corea del Sur, Justicia
+
+No hay escapatoria: Apple seguirá cobrando comisiones al margen del método de pago
+
+El plan de la compañía es seguir cobrando estas comisiones, independientemente del método de pago que elijan los creadores de las apps.
+
+El juicio que ha enfrentado a Apple con Epic tiene ya veredicto y aunque la sentencia es bastante favorable a Apple, hay un punto que puede afectar a su cuenta de resultados. La juez californiana Yvonne González Rogers ha obligado a Apple a aceptar enlaces a métodos alternativos de pago dentro de las apps desarrolladas por terceros.
+Es una decisión que, en principio, parece acabar con la comisión de entre el 15% y el 30% que Apple se lleva de todas las transacciones realizadas dentro de una app, y así es como lo han visto muchos desarrolladores desde que la sentencia se publicó en septiembre.
+Pero en un comunicado al circuito federal de justicia, los abogados de Apple -que han solicitado que la medida no entre en vigor mientras continúan las apelaciones- dan a entender que el plan de la compañía es seguir cobrando estas comisiones, independientemente del método de pago que elijan los creadores de las apps.
+Si el proceso de compra se inicia desde la app, afirman desde Apple, la compañía "podría comenzar a cobrar una comisión cuando se hiciera a través de estos mecanismos".
+No es del todo una sorpresa. En el mes de mayo, Tim Cook dejó entrever esta posibilidad, pero no está claro cómo Apple podría contabilizar las transacciones realizadas fuera de su plataforma de pagos. Con el nuevo sistema Apple debe permitir a una app, por ejemplo, mostrar un enlace a una web externa en la que realizar una suscripción o compra.
+La sentencia, en cualquier caso, admite esta posibilidad, ya que se centra sólo en la necesidad de que existan métodos alternativos de pago, no en la estructura de las comisiones que existe en la actualidad.
+Si finalmente decidiese hacerlo, Apple no estaría sola. Google, que se ha enfrentado también a Epic en un caso similar, ya ha indicado que utilizará esta estrategia, al menos en algunos mercados.
+En Corea del Sur, obligada por los tribunales, la empresa permitirá usar métodos alternativos a Google Play para compras dentro de una app, pero cobrará una comisión del 11% en estas transacciones, en lugar del 15% que cobra cuando se usa la herramienta nativa.
+Dado que cualquier solución de pago alternativa tendrá también una estructura de comisiones, aunque sea pequeña, esto deja a los desarrolladores, en el mejor de los casos, ante una recorte similar al que tenían originalmente. En el peor de los casos, tendrán no sólo que pagar más comisiones sino lidiar con diferentes proveedores de servicios de facturación.
+La sentencia de septiembre daba a Apple hasta el 9 de diciembre para implementar estos cambios, pero es probable que la corte de California frene la entrada en vigor de la sentencia, como pide la compañía, hasta que se resuelvan las apelaciones al caso.
+Si decidiese no hacerlo, la empresa ha solicitado de todas formas una extensión de 30 días para presentar el caso ante el Tribunal Supremo de los EE.UU. y realizar los cambios técnicos necesarios, que según Apple resultan muy complejos.
+Conforme a los criterios deThe Trust Project

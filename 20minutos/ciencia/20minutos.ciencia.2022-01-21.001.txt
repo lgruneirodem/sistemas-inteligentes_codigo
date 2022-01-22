@@ -1,0 +1,12 @@
+Mapas
+
+El mapa de las regiones del mundo más alejadas de una ciudad
+
+
+
+La población del mundo está muy desigualmente repartida. Hay zonas que concentran una enorme cantidad de personas y en cambio, hay otras donde es difícil ver un ser humano.
+Investigadores de la Universidad de Oxford, que están trabajando en un estudio sobre la malaria, han creado un mapa cartógrafo isócrono que muestra las distancias a las ciudades más cercanas.
+En el mapa, los colores más cálidos (rojos, naranjas) muestran las zonas que están a mayor distancia de núcleos poblados, mientras que los azules son esas zonas pobladas.
+Como es de prever, en zonas como Europa y América predominan los azules, pero las cosas cambian en África, donde los colores de la gama de los rojos, incluso granates, son los más visibles.
+El mapa pone de manifiesto una dificultad añadida en estos países a la hora de recibir una atención médica óptima, ya que la mayor parte de ellos se encuentran lejos de las ciudades.
+En Sudamérica y Asia la cosa es más desigual. Por ejemplo en la superpoblada India predominan los colores azules, al igual que en China, pero entre ambos países, en las amplias estepas, predomina el rojo oscuro.

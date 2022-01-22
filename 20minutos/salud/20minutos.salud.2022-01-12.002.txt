@@ -1,0 +1,15 @@
+Embarazo, Parto, Inteligencia artificial, Maternidad, Familia
+
+Un análisis de sangre puede predecir la preeclampsia antes de que aparezca
+
+
+
+Una nueva técnica diagnóstica que combina preceptos genéticos con inteligencia artificial puede ayudar a detectar la preeclampsia, una de las principales complicaciones del embarazo, antes de que suceda.
+Así lo explica la empresa Mirvie, cuyos científicos son los creadores de esta tecnología. A través de un análisis de sangre, el sistema logra predecir con éxito la condición en un 75% de los casos antes de que aparezca, con lo que cuadruplica la eficacia de los cribados tradicionales que se venían realizando previamente.
+La preeclampsia se caracteriza por una repentina elevación de la tensión arterial y puede suponer un serio peligro para la salud de madre e hijo, llegando incluso a poder comprometer la vida de ambos.
+Normalmente se empieza a detectar a partir del tercer trimestre de gestación, y es un motivo común de parto prematuro. Por ahora, el único tratamiento que existe para esta condición consiste en el uso de ácido acetilsalicílico (aspirina).
+Sin embargo, tal y como explican los autores de los ensayos clínicos en los resultados publicados en la revista Nature, los primeros marcadores de la preeclampsia aparecen ya en el momento de la formación de la placenta, aunque eran difícilmente detectables.
+Ahora, en cambio, estos investigadores han analizado el ARN circulante de la sangre de las madres a través de un sistema de aprendizaje de máquinas (inteligencia artificial) diseñado específicamente para encontrar diferencias entre aquellas que desarrollaron posteriormente preeclampsia y las que no lo hicieron.
+Y es que en este ARN, que se cree que es un 'desecho', se encuentra parte de orígenes vírico y bacteriano, pero aparentemente también transcripciones del feto y de la placenta, lo que permite encontrar en él los patrones predictivos de la preeclampsia.
+La idea no es nueva del todo, y desde hace años ya hay pruebas diagnósticas basadas en el análisis de ADN fetal en el torrente sanguíneo de la madre. Con estas tecnologías, por ejemplo, era posible predecir trastornos genéticos tales como el síndrome de Down. En el caso de la preeclampsia, se habían realizado estudios con este enfoque, pero sobre muestras de sangre tomadas cuando la preeclampsia era ya evidente.
+Lo brillante es que, en principio, este mismo principio sería aplicable a multitud de enfermedades distintas, ya que en general cualquiera que suponga un deterioro en un sistema podría generar ARN circulante. En el caso del embarazo, esto podría ayudar a predecir otras condiciones como formas de hipertensión gestacional distintas de la preeclampsia, la diabetes gestacional.

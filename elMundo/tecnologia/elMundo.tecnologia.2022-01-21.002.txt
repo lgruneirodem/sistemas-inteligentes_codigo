@@ -1,0 +1,13 @@
+Android, Microsoft, Amazon, YouTube
+
+Google permitirá jugar a juegos de Android en Windows
+
+Con Google Play Games el buscador adaptará algunos de sus títulos más populares al juego con ratón y teclado
+
+Google quiere que los jugadores de PC jueguen a juegos de Android. La compañía anunció su intención de distribuir algunos de los juegos más importantes de su plataforma móvil en Windows durante la pasada ceremonia de los premios Game Awards y esta semana ha comenzado a hacerlo en una prueba piloto limitada a Corea del Sur, Taiwan y Hong Kong.
+Bajo el nombre de Google Play Games la compañía adaptará algunos de los títulos más famosos de Google Play al control con teclado y ratón. El progreso y los logros obtenidos en los juegos se mantendrán para los jugadores que jueguen en varias plataformas.
+El catálogo inicial es pequeño pero en la lista están algunos de los títulos más populares de Android como Mobile Legends: Bang Bang, Summoners War, State of Survival: The Joker Collaboration y Three Kingdoms Tactics. La intención de Google es ampliar el catálogo y el número de territorios en los que será posible descargar la aplicación.
+Los requisitos para jugar son altos. La aplicación recomienda un procesador de ocho núcleos, 8GB de RAM, 20GB de SSD y una tarjeta gráfica relativamente potente, algo inesperado teniendo en cuenta que no todos los juegos tienen la calidad gráfica que se suele asociar con los juegos de PC de última generación, aunque hay títulos visualmente espectaculares.
+Google planea adelantarse así a una de las funciones más importantes de Windows 11, que es la posibilidad de ejecutar aplicaciones y juegos de Android de forma nativa. Aunque Microsoft está todavía dando los últimos retoques a esta característica, la idea es que pronto muchos de los programas y juegos de Android sean compatibles.
+Para lograrlo Microsoft, sin embargo, no ha llegado a aun acuerdo con Google, sino con Amazon, que tiene su propia tienda independiente de juegos ya aplicaciones de Android para los dispositivos Kindle Fire.
+Conforme a los criterios deThe Trust Project

@@ -1,0 +1,13 @@
+ADN, Síntomas, Covid-19, Ómicron - Variante Sudafricana Covid
+
+¿Por qué unas personas pierden el olfato y el gusto con la covid y otras no? La respuesta la tienen tus genes
+
+
+
+Un equipo de investigadores ha logrado identificar un factor de riesgo genético que influye en la probabilidad de que una persona experimente pérdida de olfato o de gusto como parte de los síntomas de la covid-19, según han publicado en la revista Nature Genetics.
+Según los autores, el locus genético –lugar concreto del cromosoma donde está localizado un gen u otra secuencia de ADN– situado cerca de los genes UGT2A1 y UGT2A2 se asocia con un aumento del 11% en la probabilidad de desarrollar cualquiera de estos síntomas -pérdida de olfato o gusto- tras la infección por SARS-CoV-2.
+La constatación de este vínculo genético proporciona pistas sobre los mecanismos biológicos -aún no están claros- que subyacen a la pérdida del olfato o del gusto, síntomas distintivos de la covid-19 que, sin embargo, no todos los individuos infectados por el virus experimentan.
+La investigación se realizó con información hasta marzo de 2021 ofrecida por 69.841 personas (63% mujeres, 37% hombres) de Estados Unidos y del Reino Unido, reclutadas de la base de datos de clientes de 23andMe, una empresa estadounidense de análisis genéticos.
+Para llegar a sus conclusiones, los científicos hicieron un estudio de asociación de genoma completo (GWAS, por sus siglas en inglés), un método utilizado para tratar de asociar variaciones genéticas concretas con enfermedades. Así, descubrieron que un conjunto de variantes localizadas cerca de los genes UGT2A1 y UGT2A2 aumentaba en un 11% la probabilidad de que un individuo experimentara una pérdida de olfato o de gusto.
+Ambos genes se expresan en el epitelio olfativo y desempeñan un papel en el metabolismo de los odorantes. Aunque este trabajo proporciona un vínculo genético con los mecanismos biológicos que están detrás de estos dos síntomas, los autores advierten de que, a pesar del gran tamaño de la muestra, el estudio está sesgado hacia sujetos de ascendencia europea.
+También habría que distinguir entre la pérdida del gusto y la del olfato, que aquí se combinan en una sola pregunta en las encuestas realizadas a los voluntarios. Por eso, dicen, podría ser beneficioso repetir el estudio clínicamente, en lugar de basarse en los síntomas declarados por los propios participantes.

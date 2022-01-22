@@ -1,0 +1,25 @@
+EE UU, Vacunas, Placebo, Síntomas, Covid-19, Pfizer
+
+El efecto 'nocebo' en las vacunas: algunos síntomas tras el pinchazo podrían deberse a sugestión psicológica
+
+
+
+En ocasiones, los efectos placebo también pueden ser perjudiciales, es lo que se conoce como efectos nocebo. Según un gran análisis a partir de datos de voluntarios de 12 ensayos clínicos, más de dos tercios de los síntomas adversos de las vacunas de la covid-19 se debieron a estos.
+El efecto placebo es la supuesta mejora de la salud física o mental de una persona después de un tratamiento sin beneficio terapéutico farmacológico, una píldora de azúcar o una jeringuilla llena de suero, y este tiene una versión contraria, el nocebo, que se produce cuando un individuo experimenta efectos secundarios desagradables después de recibir también este "tratamiento mentira".
+Los fundamentos biológicos, psicológicos y genéticos exactos del por qué ocurren -efecto placebo/nocebo- no se conocen bien, aunque hay teorías que apuntan a las expectativas como causa principal y otras sostienen que factores no conscientes integrados en la relación médico-paciente bajan automáticamente el volumen de los síntomas.
+Para constatar su papel en las vacunas de la covid-19, el equipo del centro BIDMC, asociado a la Escuela de Medicina de Harvard (EE UU), realizó un metaanálisis de 12 ensayos clínicos.
+El objetivo, comparar las tasas de acontecimientos adversos notificados por los participantes que recibieron las vacunas con las tasas de aquellos que obtuvieron una inyección de placebo -sin ninguna vacuna-. Los resultados se publican en JAMA Network Open.
+Los 12 ensayos incluyeron informes de efectos adversos de 22.578 receptores de placebo y 22.802 receptores de la vacuna.
+Aunque los científicos descubrieron que un número significativamente mayor de participantes que recibieron la vacuna informó de acontecimientos adversos, casi un tercio de los participantes que obtuvieron el placebo también señalaron al menos uno, siendo el dolor de cabeza y la fatiga los más comunes.
+En concreto, Julia W. Haas y sus colegas del BIDMC, constataron que tras la primera inyección, más del 35% de los receptores de placebo experimentaron efectos adversos sistémicos -síntomas que afectan a todo el cuerpo, como la fiebre-, siendo el dolor de cabeza y la fatiga los más comunes, con un 19,6% y un 16,7%, respectivamente, informa el centro en un comunicado.
+El 16% de los receptores de placebo declararon al menos un efecto local, como dolor en el lugar de la inyección, enrojecimiento o hinchazón. Haas recuerda que los acontecimientos adversos tras el tratamiento con placebo son comunes en los ensayos controlados aleatorios.
+"La recopilación de pruebas sistemáticas con respecto a estas respuestas nocebo en los ensayos de vacunas es importante para la vacunación covid-19 en todo el mundo, especialmente porque se informa que la preocupación por los efectos secundarios es una razón para dudar de la vacuna".
+En comparación con el grupo placebo, tras la primera inyección, el 46% de los receptores de la vacuna experimentaron al menos un acontecimiento adverso sistémico y dos tercios de ellos declararon al menos uno local.
+Aunque este grupo recibió un tratamiento farmacológicamente activo, algunos de sus eventos adversos son atribuibles al efecto placebo -o en este caso, nocebo-, dado que muchos de estos efectos también se produjeron en el grupo placebo, afirman los investigadores.
+El análisis sugiere que el nocebo representaba el 76% de todos los acontecimientos adversos en el grupo de la vacuna y casi una cuarta parte de todos los efectos locales notificados.
+Después de la segunda dosis, los efectos adversos en el grupo de placebo descendieron al 32% en los casos sistémicos y al 12% en los efectos locales.
+En cambio, los participantes que recibieron la vacuna informaron de más efectos secundarios, con un 61% de eventos adversos sistémicos y un 73% de eventos adversos locales.
+Los investigadores calcularon que el nocebo representaba casi el 52% de los efectos secundarios notificados después de la segunda dosis.
+Ted J. Kaptchuk, otro de los firmantes, explica que "los síntomas inespecíficos como el dolor de cabeza y la fatiga -que hemos demostrado que son especialmente sensibles al nocebo- figuran entre las reacciones adversas más comunes tras la vacunación en muchos folletos informativos".
+Las pruebas sugieren que este tipo de información puede hacer que las personas atribuyan erróneamente sensaciones cotidianas comunes como derivadas de la vacuna, o causar ansiedad y preocupación que hacen que las personas estén hiperalertas a las sensaciones corporales de los eventos adversos.
+"La medicina se basa en la confianza", subraya Kaptchuk: "Nuestros hallazgos nos llevan a sugerir que informar al público sobre el potencial de las respuestas nocebo podría ayudar a reducir las preocupaciones sobre la vacunación covid, lo que podría disminuir la indecisión".

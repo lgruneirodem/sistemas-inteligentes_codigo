@@ -1,0 +1,23 @@
+DGT, Phishing, Hacker, Ciberseguridad, Multas de tráfico
+
+Un nuevo engaño de phishing incita a los usuarios a pagar multas de tráfico falsas
+
+
+
+La Dirección General de Tráfico (DGT) ha alertado de una nueva campaña de phishing en la que, los hackers utilizan información falsa para presionar al usuario para que pague una multa que, en realidad, no existe.
+Este tipo de engaño lo hacen por correo electrónico y la propia DGT ha especificado que, salvo por excepción, ‘no comunica multas vía e-mail’. Esta cuestión es importante tenerla en cuenta para evitar estafas online que circulan actualmente en nuestro país.
+Los ataques de phishing suelen camuflarse detrás de instituciones y empresas conocidas como, por ejemplo, Correos, Amazon, los bancos o, como en este caso, la DGT. Su intención es ganarse la confianza de las víctimas para robarles datos personales, dinero o incluso infectar sus dispositivos, también conocido como spoofing.
+En el caso del engaño de las multas de tráfico, estos piratas informáticos utilizan elementos cada vez más elaborados como incluir un enlace donde, supuestamente, descargar información sobre la multa e incita a hacerlo en la mayor brevedad posible con frases como "Advertencia importante".
+Es importante que los usuarios eviten usar los links o descargar cualquier documento cuando tengan dudas de si están sufriendo o no un ataque de phishing.
+No es la primera vez que la DGT se ve afectada por estafas mediante correo electrónico o SMS en su nombre, por lo que ha compartido una imagen en twitter donde se puede ver un correo electrónico falso para alertar a los usuarios y que, sobre todo, extremen la precaución.
+Además, si se analiza con detalle el e-mail es posible encontrar señales  de la estafa aunque, es cierto, que los ciberdelincuentes cuidan cada vez más los detalles para engañar a sus víctimas.
+Detalles que indican la posibilidad de estar ante una estafa de phishing:
+La Dirección General de Tráfico solo envía correos electrónicos a los conductores de España en caso de que estos hayan dado de alta voluntariamente en la Dirección Electrónica Vial (DEV).
+DEV es un buzón electrónico para recibir este tipo de notificaciones. Este servicio sí envía SMS y correos, no obstante, incluso en este caso también se deben tomar las siguientes medidas de precaución.
+La multa puede consultarse en el TESTRA, sin necesidad de usar ningún enlace ni documento extra, el conductor solo requiere utilizar su DNI, NIE o CIF para comprobar si tiene alguna multa pendiente.
+Las multas suelen notificarse por carta. En ocasiones la entrega puede fallar si se ha cambiado de domicilio y no se ha notificado.
+La app de la DGT guarda el carné de conducir y otros datos en el móvil, lo que también puede ser buena fuente de comprobación.
+En el caso de haber sido víctima y haber accedido al fraude es importante denunciar los hechos a la policía y a los respectivos bancos para detener el uso de las cuentas que hayan podido verse comprometidas.
+Además, contar con un buen antivirus es de gran ayuda para detectar la entrada de toda clase de malware y software espías.
+La DGT y el INCIBE (Instituto Nacional de Ciberseguridad) compartían en septiembre de 2021 una serie de consejos que siempre hay que recordar ante cualquier caso que despierte la más mínima sospecha.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

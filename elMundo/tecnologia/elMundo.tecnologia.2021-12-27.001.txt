@@ -1,0 +1,15 @@
+WhatsApp, Android, Telegram, Mark Zuckerberg, iPhone
+
+WhatsApp: el triple check azul quiere proteger las conversaciones de los grupos
+
+La compañía de Mark Zuckerberg puede incorporar un aviso si un componente del grupo realiza un pantallazo a las conversaciones publicadas
+
+El mundo WhatsApp siempre está abierto a nuevos cambios y retos a la medida del usuario. Con la amenaza siempre presente de fuga de clientes a otras aplicaciones como Telegram o Signal, la compañía de Meta podría tener en la recámara una nueva utilidad: el triple Check azul.
+Hace unos meses, la firma de Mark Zuckerberg sorprendió con la posibilidad de enviar archivos temporales y también con la mejora de su versión web, pero ahora querría proteger la información de los grupos de WhatsApp o mejor dicho, darle una mayor transparencia a todos los propietarios de números de móviles que pertenecen a ellos.
+Todavía no es oficial, WhatsApp no lo ha confirmado, pero Infobae publicó recientemente que la compañía de redes sociales quiere informar a sus usuarios cuando algún compañero de un grupo realice un pantallazo de las conversaciones. Muchos de estos screenshots desde hace meses se están utilizando tanto como pruebas judiciales como para informar públicamente de los comentarios que piensan algunos de los usuarios de forma privada.
+Según la primeras informaciones sobre esta mejora técnica de WhatsApp, los usuarios del grupo podrían recibir automáticamente tras un pantallazo un mensaje de aviso general. Sin embargo, esta funcionalidad debería esta conectada a las diferentes formas de captar esa imagen tanto en los terminales iPhone como en Android. Una labor técnica nada compleja, pero que supone una mejora de gran calado de cara a las próximas actualización.
+Hace unos días se conocía que WhatsApp se conocía que permitirá que los administradores de los chats grupales puedan borrar mensajes independientemente de quién los haya enviado.
+Se prevé que en la próxima actualización de Google Play, que para Android será la 2.22.1.7, se disponga de este permiso que facilitará la moderación y control del contenido de los grupos y los contenidos que se publican en los mismo.
+Los administradores de los grupos de WhatsApp tendrán potestad de eliminar cualquier mensaje de estos chats sin la necesidad de que el resto de los participantes den su consentimiento parea proceder al borrado.
+Por el momento, se desconoce la fecha de implementación de esta opción, ya que desde este portal no se menciona cuándo llegará esta actualización a los dispositivos Android.
+Conforme a los criterios deThe Trust Project

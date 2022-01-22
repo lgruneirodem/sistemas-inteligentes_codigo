@@ -1,0 +1,13 @@
+Mensajería instantánea, Chat, Whatsapp, Aplicaciones móvil, Redes y apps
+
+WhatsApp vuelve a incluir en la app una antigua función que te ayudará a solventar problemas más rápido
+
+
+
+La página web Android Police ha detectado que WhatsApp está facilitando la obtención de ayuda a través del soporte de chat, es decir, existe la posibilidad de activar una conversación directa con el soporte técnico de la aplicación para resolver cualquier problema.
+Esta función se probó por primera vez con algunos usuarios beta de WhatsApp en marzo del año pasado, sin embargo, la opción terminó desapareciendo a pesar de que está de vuelta para algunos usuarios.
+No se conoce cuánto tiempo lleva activa, pero es bastante útil en el caso de que descubras alguna estafa, mensajes inapropiados o deje de funcionar algún servicio. WABetaInfo indica que los usuarios pueden acceder a ‘Ajustes’ → ‘Ayuda’ → ‘Contáctanos’ para interactuar con el servicio técnico de la aplicación en el caso de que detecten alguna anomalía.
+Estos chats siempre estarán marcados con un signo verde de verificación, de esta manera, sabrás que se trata del soporte oficial. Cuando se resuelva el problema, el mensaje se borrará automáticamente.
+En el momento de ponerte en contacto con WhatsApp, se comparte la siguiente información para comprender el origen del problema:
+Dicho servicio es más sencillo que el formulario que se debía rellenar para presentar un problema, además, solo está disponible para usuarios de la versión beta de Android 2.22.3.5  e iOS 22.2.72.  WABetaInfo indica que esta función también se puede lanzar a las personas que tengan actualizaciones estables, no obstante, señala la posibilidad de que no esté disponible para todos.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

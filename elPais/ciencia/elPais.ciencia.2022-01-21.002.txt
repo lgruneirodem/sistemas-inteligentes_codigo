@@ -1,0 +1,25 @@
+Ciencia, Matemáticas, Juego, Carlo Frabetti
+
+Grafos
+
+Euler introdujo la teoría de grafos al analizar el famoso problema de los puentes de Königsberg
+
+Las sucesiones atípicas de la semana pasada podrían continuar de estas maneras (pero también de otras):
+2, 10, 12, 16, 17, 18, 19, 200, 201, 202…
+1, 2, 3, 4, 7, 10, 17, 24, 41, 58…
+Huevo, gallina, vaca, mosca, araña…
+Esponja, avestruz, canguro, dingo, estrella de mar…
+Fresa, mandarina, limón, uva, arándano…
+Enero, marzo, abril, junio, julio
+Do, fa, la, mi, re, si, sol
+Fa, la, re, mi, si, do, sol
+Dejo a la sagacidad de mis lectoras/es descubrir el criterio de continuidad en cada caso. Dos pistas: la ilustración de la semana pasada remite a una de las sucesiones, y los puntos suspensivos indican que la sucesión podría seguir (mientras que si no hay puntos suspensivos significa que la lista está completa).
+Con respecto a los profetas menores, nadie ha aventurado ninguna hipótesis relativa a sus dos ordenaciones distintas (la primera corresponde a la Biblia judía y católica, y la segunda a la Septuaginta o Biblia griega), por lo que la cuestión sigue abierta.
+En cuanto al problema tomado del estupendo libro de Clara Grima En busca del grafo perdido (un libro que empiezas pensando: “¿Por qué no lo habré escrito yo?” y acabas reconociendo que es mejor que lo haya hecho ella), la solución es que Alicia ha dado la mano a 4 personas, como es fácil ver dibujando el grafo correspondiente.
+Recordemos que un grafo es un conjunto de puntos, llamados vértices o nodos, unidos por una serie de líneas, llamadas lados o aristas, que representan relaciones binarias entre los elementos de un conjunto. Si desde cualquiera de los puntos del grafo se puede ir a cualquier otro recorriendo aristas, es un grafo conexo. Y si en un grafo conexo no hay circuitos cerrados, se denomina árbol, por su semejanza con los árboles de la naturaleza (el Árbol de la Ciencia de Ramón Llull y el Árbol de Porfirio son ilustres precursores de los grafos arbóreos).
+Se puede considerar que la teoría de grafos la inauguró Euler en 1736 con un artículo sobre el famoso problema de los puentes de Königsberg (la actual Kaliningrado), del que nos hemos ocupado en alguna ocasión, en el que demostraba que era imposible recorrer las cuatro zonas de la ciudad pasando por sus siete puentes una sola vez y regresando al punto de partida.
+Otro conocido problemas de grafos es el de dibujar un sobre abierto sin levantar el lápiz del papel ni pasar dos veces por el mismo trazo. ¿Es posible? ¿Y si el sobre está cerrado?
+Volviendo al libro de Clara Grima, en uno de sus capítulos habla del polémico (algunos consideran que ha sido demostrado y otros opinan que no del todo) teorema topológico de los cuatro colores, que afirma que cuatro colores son suficientes para colorear cualquier mapa de manera que nunca dos zonas limítrofes sean del mismo color. Cuatro colores son suficientes, pero no siempre necesarios; por ejemplo, para colorear de esta manera un tablero de ajedrez bastan dos colores.
+Y para colorear el mapa de Andalucía de forma que sus ocho provincias queden claramente diferenciadas (es decir, sin que dos provincias fronterizas sean del mismo color), ¿son necesarios cuatro colores o se puede lograr con menos? ¿Y para colorear el mapa de la España peninsular? (Versión fácil: dividido en comunidades autónomas; versión menos fácil: dividido en provincias).
+Carlo Frabetti es escritor y matemático, miembro de la Academia de Ciencias de Nueva York. Ha publicado más de 50 obras de divulgación científica para adultos, niños y jóvenes, entre ellos ‘Maldita física’, ‘Malditas matemáticas’ o ‘El gran juego’. Fue guionista de ‘La bola de cristal’.
+Puedes seguir a MATERIA en Facebook, Twitter e Instagram, o apuntarte aquí para recibir nuestra newsletter semanal.

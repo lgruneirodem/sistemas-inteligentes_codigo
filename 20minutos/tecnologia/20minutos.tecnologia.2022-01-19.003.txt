@@ -1,0 +1,14 @@
+Wikipedia, Internet, Noticias de tecnología, Juegos online, Redes y apps
+
+A Wordle le sale competencia: así es Wikitrivia, el último juego adictivo de Internet
+
+
+
+Si quieres demostrar todo lo que sabes sobre historia, hay un juego en Internet que puedes probar y seguro que te resulta entretenido. Se trata de Wikitrivia y, con él, los usuarios pueden averiguar cuánto saben de historia y cultura.
+El juego consiste en ordenar cronológicamente los eventos históricos que aparecen en pantalla con respecto a otras fechas. En la página web, aparecen tarjetas con una breve descripción del acontecimiento y los usuarios deben colocarlas detrás o delante de otras tarjetas en una línea del tiempo dependiendo de si creen que ocurrió antes o después.
+Una vez que se mueve la carta en una parte de la línea cronológica, Wikitrivia detalla el año exacto en el que sucedió el hecho histórico. Además, la ficha se pondrá de color verde si el jugador ha acertado y en rojo si ha fallado.
+Cada partida en Wikitrivia dispone de tres vidas, por lo tanto, si el usuario se equivoca en tres ocasiones distintas, el juego termina. Cuando el juego finaliza, aparece en pantalla la puntuación de la partida y la mejor puntuación que ha hecho en ese ordenador.
+A través de este juego web totalmente gratuito, los usuarios pueden aprender algo de historia de una manera divertida. La información que sale en las tarjetas son datos que la página recoge automáticamente de Wikipedia, por lo que se tiene que tener en cuenta que alguna tarjeta puede estar mal formulada.
+No obstante, si el jugador ve que hay una carta con errores, puede recurrir a la página de Github del juego y avisar del fallo, para que lo corrijan lo antes posible. Wikitrivia es una manera didáctica de entretenerse con amigos o incluso en familia o en clase para saber quién de todos sabe más sobre historia.
+Una desventaja es que el juego tan solo está disponible en inglés de momento. A pesar de ello, esto se puede convertir en una ventaja si queremos mejorar nuestro nivel de inglés.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

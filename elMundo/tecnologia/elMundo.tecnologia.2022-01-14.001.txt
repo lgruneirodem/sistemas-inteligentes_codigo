@@ -1,0 +1,15 @@
+iPhone, Android, Fortnite
+
+Fortnite vuelve al iPhone y al iPad, aunque no de forma directa
+
+El juego sigue sin estar disponible en la App Store, pero se puede acceder a él desde el servicio GeForce Now de Nvidia
+
+Un año y medio después de ser retirado de la AppStore, los usuarios de iPhone o iPad ya pueden volver a jugar al popular Fortnite en las pantallas de sus dispositivos. No de forma directa -el juego sigue sin estar disponible en la tienda de aplicaciones de Apple- pero sí a través de uno de los servicios más populares de juego en la nube.
+Apple eliminó Fortnite de la AppStore en agosto de 2020 por una saltarse las normas de la tienda de aplicaciones, que impiden utilizar sistemas alternativos de pago al propio de Apple para compras dentro de juegos. Epic, la desarrolladora de Fortnite, había instalado subrepticiamente en una de sus versiones una opción que permitía comprar V-bucks, la moneda virtual del juego, directamente en la web de la empresa y a un precio menor.
+El bloqueo de Apple no se hizo esperar (y lo mismo ocurrió con la versión de Fortnite distribuida a través de Google Play en Android, por los mismos motivos). Epic demandó entonces a Apple y el resultado ha sido uno de los procesos judiciales más significativos de California por el efecto que puede tener en la regulación de las tiendas digitales de aplicaciones y juegos.
+La sentencia final, publicada en septiembre del año pasado, daba la razón a Apple, a la que no consideraba un monopolio dentro del mercado del juego móvil, pero exigía a la compañía que permitiese a los desarrolladores enlazar desde las apps a sistemas alternativos de pago y suscripción. Apple, en cualquier caso, no está obligada a aceptar de nuevo Fortnite en su catálogo.
+La solución que ha encontrado Epic es volver a las pantallas de iOS a través del servicio de juego en la nube GeForce Now de Nvidia. Apple no permite tampoco en su tienda de aplicaciones servicios de juegos en la nube como GeForce Now, Stadia o XCloud, pero estos servicios sí pueden utilizarse a través del navegador Safari en los dispositivos de la compañía.
+Epic y Nvidia, por tanto, han creado una versión de Fortnite específicamente diseñada para móviles y pantallas táctiles que podrá jugarse a través del servicio. GeForce Now ya permitía acceder a la versión de PC de Fortnite pero los controles no estaban adaptados a la interfaz táctil de tabletas o teléfonos.
+De momento, eso sí, el acceso a Fortnite a través de GeForce Now para iOS está limitado. Se trata de una versión beta para comprobar la experiencia de juego. Ni Nvidia ni Epic tienen aún claro cuándo se abrirá la experiencia a todos los usuarios.
+GeForce Now está disponible tanto en versión gratuita como de pago. La primera tiene un límite máximo de tiempo de juego (una hora por sesión) y menor resolución. La segunda cuesta 9,99 euros al mes y ofrece acceso prioritario a los servidores y mayor calidad gráfica.
+Conforme a los criterios deThe Trust Project

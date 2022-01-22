@@ -1,0 +1,33 @@
+Internet, Twitter, Redes sociales, Propinas, Redes y apps
+
+Claves y cómo activar y utilizar la nueva función 'Propinas' de Twitter
+
+
+
+Apoyar económicamente a tus cuentas de Twitter favoritas es fácil gracias a las propinas. Una función que cada vez es más usual entre los tuiteros y que va directamente al usuario beneficiario sin ningún tipo de comisión intermediaria.
+Es decir, Twitter no recibirá ninguna parte de estos pagos, pero los servicios de pago de terceros pueden cobrar tarifas.
+Esta función permite agregar enlaces directos de servicios de pago a terceros a tu perfil de Twitter. En el momento en el que la tengas activada, aparecerá el icono 'Propinas' y otros tuiteros podrán enviarte dinero o Bitcoin fuera de la plataforma a través de los servicios de pago a terceros que hayas agregado con anterioridad.
+Por un lado, facilita el apoyo a los usuarios que impulsan la conversación en Twitter, independientemente que desees apoyar a un creador de contenido, ayudar a alguien a recaudar fondos, dar propinas a alguien que sólo necesita ayuda o agradecer a alguien por hacerte reír. Tú eliges el motivo de la propina.
+Además, es una manera fácil de dirigir a los usuarios a los enlaces de perfiles de pago.
+Tanto los usuarios de iOS como de Android que hayan configurado 'Propinas' tendrán en su página de perfil de Twitter un icono de 'dinero'
+Únicamente los usuarios de Android dispondrán también de esta función en su perfil mientras están en Espacios de Twitter.
+Por el momento, sólo podremos encontrar 'Propinas' en dispositivos móviles ya que todavía no está disponible en la web.
+Configurar esta función es fácil. Tanto en iOS como en Android, tienes que ir a 'Editar perfil' para pulsar 'Propinas', ya que la función está desactivada de forma predeterminada.
+En ese momento se pedirá aceptar la 'Política general de Propinas' y, después de hacerlo, podrás acceder a la pantalla de configuración de 'Propinas'.
+Activa la opción 'Permitir propinas' y elige el servicio de terceros que te gustaría usar. Agrega los nombres de usuario de los servicios de terceros. Como mínimo debes ingresar un nombre de usuario para que tu icono de 'Propinas' aparezca en tu perfil de Twitter.
+Ten en cuenta que, al haber agregado un servicio de pago de terceros a tu perfil, tu nombre de usuario en ese servicio se vinculará públicamente a tu cuenta de Twitter. Tu nombre completo, tu dirección y tu propina, se puede compartir con el destinatario u otras personas, conforme a los términos del servicio de pago de terceros.
+Si quieres obtener más información ala respecto deberás revisar los términos de cada servicio.
+La edad mínima para utilizar este servicio es de al menos 18 años, tanto para solicitar, como para recibir o enviar propinas a través esta función o de cualquier otro lugar de Twitter.
+Puedes dar propinas para mostrar apoyo o agradecimiento, para ayudar o recompensar a quien quieras, desde creadores y periodistas emergentes hasta anfitriones de Espacios de Twitter y más.
+Las propinas se envían mediante servicios de pago de terceros, por lo que  también debes asegurarte de que tus propinas cumplan con los términos y políticas de esos servicios.
+Si consultas la Política general de propinas puedes tener una información más detallada.
+Puedes dar propina a las personas a través del icono de 'Propinas' si la persona a la que quieres hacer llegar esta propina ha activado la función y ha agregado sus nombres de usuario de procesadores de pago de terceros.
+Tanto en iOS como en Android, encontrarás la función 'Propinas' en el perfil principal de Twitter debajo del icono. Asimismo, en Android también encontrarás el icono cuando pulsas en el perfil de alguien dentro de Espacios de Twitter.
+Cuando pulsas para enviar la propina, se te vincula fuera de la plataforma de Twitter a la aplicación o el sitio web del servicio de pago de terceros que se seleccionó. Tu propina y tu actividad en ese servicio estarán sujetos a los términos del servicio de pago de terceros.
+Cuando envías Bitcoin a través de Strike, podrás cambiar entre ver la moneda en Satoshi (Sats) o BTC.
+A través de Propinas también podrás copiar la dirección de Bitcoin de alguien y pegar su dirección en cualquier billetera de Bitcoin que utilices.
+Podrás enviar propinas desde tu cuenta en el servicio de terceros y los destinatarios podrán ver tu nombre de usuario en ese servicio. La información sobre ti, incluidos tu nombre completo, tu dirección y tu propina, se puede compartir con el destinatario u otras personas, conforme a los términos del servicio de pago de terceros.
+Cuando configuras o agregas servicios de terceros adicionales a través de la configuración de 'Propinas', sólo puedes elegir entre los servicios de terceros seleccionados que se enumeran en la configuración de 'Propinas'.
+Twitter se reserva el derecho  de agregar, modificar o eliminar los servicios de terceros específicos que están disponibles para vincular a 'Propinas'.
+No existen límites a la cantidad que puedes dar como propina; sin embargo, las plataformas de pago de terceros, sujetas a sus términos de servicio, pueden imponer límites a dicha cantidad.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

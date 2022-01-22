@@ -1,0 +1,19 @@
+Coronavirus, Coronavirus de Wuhan, Covid-19, Ómicron - Variante Sudafricana Covid
+
+Un estudio explica las diferencias entre ómicron y su 'hermana más antigua', la variante alfa
+
+
+
+Las variantes del coronavirus ómicron y alfa, detectada esta última por primera vez en Reino Unido y reconocida como preocupante el 18 de diciembre de 2020 por la Organización Mundial de la Salud (OMS), comparten algunas mutaciones, que provocan que tenga un comportamiento similar en algunos aspectos. 
+Ha sido una nueva investigación del laboratorio de Gary Whittaker, profesor de virología en el Departamento de Microbiología e Inmunología de la Facultad de Medicina Veterinaria de la Universidad de Cornell (Estados Unidos), la que ha revelado información clave sobre la variante hermana más antigua de ómicron, alfa.
+La mutación que dio origen a alfa es muy similar a la que creó después a ómicron, pero con resultados muy diferentes en cuanto a la gravedad de cada una, según esta investigación, publicada en la revista Science.
+Los científicos observaron una importante mutación en una región clave de la proteína de la espiga de alfa, denominada sitio de escisión de la furina. Se cree que este sitio es el lugar de donde proviene gran parte de la virulencia del virus. Sin embargo, "en realidad, resultó ser relativamente intrascendente", apunta Whittaker. 
+Así, aunque alfa tenía una mutación notable en el sitio de escisión de la furina, tenía poco efecto en su capacidad para infectar células y causar enfermedades.
+Alfa y ómicron comparten la misma mutación en el sitio de escisión de la furina y, en un fondo genético diferente, esto puede explicar por qué la segunda se propaga a gran velocidad, pero parece causar una enfermedad menos grave.
+"Ómicron tiene muchas de las mismas características que alfa. Lo que hemos aprendido sobre esta última nos ayuda a entender la otra y las posibles variantes futuras", apunta Whittaker.
+A pesar de que alfa pasó desapercibida en muchos países, su llegada fue importante desde el punto de vista científico. Fue la primera mutación importante del virus SARS-CoV-2, que se produjo en el sitio de escisión de la furina.
+Sin embargo, este cambio en alfa no supuso una gran diferencia en el impacto de la variante como enfermedad: fue necesaria la llegada de delta, que presentaba una mutación diferente en ese mismo sitio, para convertir al virus en un arma más letal.
+La evidencia cientítifca ha demostrado que, aunque la variante ómicron es muy contagiosa, es mucho menos dañina. "Regresó a la casilla de salida. Volvió al mismo cambio genético en el sitio de escisión de la furina que tenía la alfa. Esencialmente dio un gran paso atrás en su trayectoria evolutiva como agente patógeno", explica Whittaker.
+Esto ha sido más evidente en la capacidad de la variante para producir la fusión célula a célula, un signo revelador que se utiliza para determinar la capacidad del virus para causar virulencia en su huésped. 
+"Alfa hace que las células se fusionen. Delta fusionaría las células incluso más.... pero luego llega ómicron, y sus células huésped no se fusionan en absoluto. Ha retrocedido por completo", detalla el científico.
+Si los sitios de escisión de furina de alfa y ómicron eran esencialmente los mismos, ¿por qué alfa era una variante más mortal que ómicron? La respuesta debe estar en otra parte de la composición genética de estas variantes, que los científicos esperan poder explicar en el futuro.

@@ -1,0 +1,17 @@
+Bitcoin, Ciberseguridad, Ciberataque, Blockchain, Criptomonedas, Ethereum
+
+Así han logrado robar más de 30 millones de dólares en criptomonedas en un mismo ciberataque a Crypto.com
+
+
+
+Crypto.com ha admitido públicamente que han perdido aproximadamente 34 millones de dólares en Bitcoin y Ethereum a causa de un ciberataque que sufrieron el pasado 17 de enero. Además de su publicación oficial, el director ejecutivo de la compañía Kris Marszalek ya había reconocido en una entrevista para Bloomberg TV que unas 400 cuentas de clientes habían sido vulneradas.
+JUST IN: CEO @cryptocom’s Kris Marszalek discusses the site's recent hack with @BloombergTV’s @emilychangtv. "Customer funds were never at risk." #TheYearAhead pic.twitter.com/YlCtGO60t5
+Concretamente, Crypto.com ha comprobado que los hackers retiraron sin autorización 4.836,26 Ethereum, 443,93 BTC y otras monedas virtuales con un valor de 66.200 dólares. La empresa ha notificado que los clientes afectados ya han recibido reembolsos para recuperar sus pérdidas.
+Antes de que Crypto.com hablase de la situación, la compañía de seguridad de blockchain PeckShield había informado del ciberataque y estimaba que se podrían haber perdido criptomonedas por valor de 15 millones de dólares. Por otro lado, otra marca de investigación de Bitcoin, OXT Research, se acercó más a las pérdidas reales calculando que Crypto.com había perdido hasta 33 millones de dólares.
+Finalmente, Crypto.com ha confirmado la cifra exacta de dinero digital robado y ha explicado cómo se produjo el ataque. “Los sistemas de monitoreo de riesgos de Crypto.com detectaron actividad no autorizada en una pequeña cantidad de cuentas de usuario donde se aprobaban transacciones sin que el usuario ingresara el control de autenticación 2FA- detallan en su publicación-.  Esto desencadenó una respuesta inmediata de varios equipos para evaluar el impacto”.
+Con el objetivo de mitigar el daño, la compañía asegura que suspendió “todos los retiros de la plataforma” en cuanto se dio cuenta del ataque y el equipo comenzó sus investigaciones. Crypto.com ha tranquilizado a sus usuarios afirmando que “todas las cuentas que se encontraron afectadas se restauraron por completo”.
+Este ciberataque ha obligado a Crypto.com a migrar su sistema de autenticación de dos factores a uno nuevo. Por lo tanto, los clientes deberán cambiarse a la nueva estructura para seguir operando desde la plataforma.
+Según The Verge, las declaraciones de Crypto.com sobre la situación han sido criticadas “por ser vagas y poco claras”. Sus primeros mensajes se refirieron al ataque informático como un “incidente” de seguridad y en los primeros tuits se afirmara que solo un pequeño número de usuarios estaban reportando “actividades sospechosas en sus cuentas”.
+We have a small number of users reporting suspicious activity on their accounts. We will be pausing withdrawals shortly, as our team is investigating. All funds are safe.
+Conforme han ido pasando los días, se ha descubierto que esas pocas cuentas afectadas eran alrededor de 400. A pesar de la falta de comunicación con respecto a lo que estaba pasando, Crypto.com ha logrado devolver las criptomonedas robadas a sus propietarios en menos de una semana.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

@@ -1,0 +1,34 @@
+Sol, Rayo
+
+¿Cuánto pesa mi sombra?
+
+
+
+En el mundo de lo efímero son pocos los elementos que nos acompañan allá donde vayamos, todos los días de nuestra vida, en casi cualquier circunstancia. Algo en lo que apenas reparamos es nuestra sombra.
+La sombra no es más que la ausencia de una luz que se esperaba, pero que no llega a su destino porque fue bloqueada por un objeto. Explicar qué es la luz no es tan fácil.
+De manera simplificada podemos decir que está formada por fotones, unas partículas elementales sin masa pero con energía y con “momento”. Este “momento” es la capacidad que tienen los objetos físicos para empujarse unos a otros. Cuando los fotones que conforman un rayo de luz iluminan un objeto, lo empujan, ejerciendo una ligera presión sobre él que llamamos “presión de radiación”. Al ponernos al sol nuestro cuerpo siente esta presión, mientras que el área que ensombrecemos, a la que no llegan los fotones, no la siente.
+Podemos cuantificar esta diferencia de presión con el peso, que es la fuerza que ejercemos sobre el suelo, o sobre una báscula. Cuando estamos iluminados ejercemos una fuerza mayor que cuando estamos a oscuras, ya que a la fuerza de nuestro cuerpo hay que sumarle el momento transferido por los fotones que chocan contra nosotros.
+Así, podemos afirmar que un objeto pesa más cuando está iluminado que cuando no lo está.
+De la misma manera, la región donde se extiende nuestra sombra siente una presión de radiación inferior a la que sentiría si no estuviéramos allí, bloqueando la luz. En otras palabras, el exceso de peso que sentimos al ser iluminados se corresponde con un defecto de peso de nuestra sombra.
+En el caso de una persona adulta de estatura media, situada bajo el sol a la latitud de Madrid, y asumiendo que las dimensiones de su sombra son las mismas que las de su cuerpo, ese defecto de peso en la sombra será equivalente al que ejercería una masa de unos 0,00000004 kilogramos.
+(Aquí está el cálculo detallado del peso de la sombra así como la comprobación de los valores que se pueden encontrar en otros artículos similares).
+Esto no es todo: los fotones de luz de diferentes colores tienen distinto momento, con lo cual su energía y la presión que ejercen serán diferentes. Esto significa que si nos iluminamos con luz roja pesaremos menos que si lo hacemos con la misma cantidad de fotones de luz azul.
+Por otro lado, que no veamos algo no significa que no exista. En lo relativo a la luz, la mayor parte de ella es invisible a los ojos humanos. Es el caso de los fotones ultravioletas, como los del Sol, que además de broncearnos son más energéticos que los visibles y, por lo tanto, someten a un mayor empuje a nuestros cuerpos.
+De esta forma, la diferencia de peso con respecto al objeto iluminado es mayor para la sombra que no vemos que para la que sí. Curioso, ¿verdad?
+¿Todos los objetos responden igual a la presión de radiación, independientemente de sus propiedades? Desde luego que no.
+La capacidad de un objeto para absorber, transmitir o reflejar los fotones también afectará a su sombra: si es perfectamente transparente, entonces dejará pasar los fotones y, por lo tanto, no sentirá un exceso de peso.
+En cambio, un objeto reflectante, un espejo, sentirá el doble de empuje que un objeto que absorba totalmente la radiación (cuerpo negro), al reflejar los fotones que le llegan.
+Nuestros cálculos sobre el peso de la sombra y la luz son divertidos, pero ¿tienen alguna utilidad? La diferencia de peso entre un objeto iluminado y uno que no lo está es ínfima: una centésima parte del peso de un solo grano de azúcar. Como dieta milagro parece pobre.
+Sin embargo, estas consideraciones fueron el motivo del premio Nobel de Física 2018 que recayó en Arthur Ashkin, Gérard Moureau y Donna Strickland, por el desarrollo de las “pinzas ópticas”, un método para atrapar y manipular objetos diminutos utilizando la presión de radiación de un láser.
+Una fuente de luz láser, en la que los fotones se mueven de manera coherente, como si estuvieran coordinados, se puede emplear para desplazar objetos con una gran precisión.
+Los primeros experimentos fueron realizados en los años 60 por el equipo de Ashkin en Bell Labs. Los investigadores iluminaron diminutas esferas parcialmente transparentes con un láser para moverlas y hacerlas levitar, contrarrestando su peso con la presión de radiación.
+Además, al focalizar el haz con una lente en un punto lograron atrapar partículas, creando así las primeras pinzas ópticas. A lo largo de las siguientes décadas se perfeccionaron y permitieron observar, girar, cortar y empujar los objetos investigados sin tocarlos ni modificarlos. Por ello, resultan idóneas para estudiar procesos biológicos.
+¿No le parece suficiente? Hay otro campo en el que se utiliza también la presión de radiación, pero a gran escala: la exploración espacial.
+Como el empuje de los fotones depende del tamaño de la superficie en la que incidan, puede llegar a ser relevante cuando consideramos una región suficientemente extensa.
+Así es como se diseñaron las “velas solares”: una revolucionaria forma de propulsar aeronaves en el espacio, consistentes tan sólo en una gran superficie que refleja la luz solar.
+Al igual que las velas de un barco cuando sopla el viento, estas velas solares aprovechan la presión de radiación de los fotones que chocan con ellas para hacer que la aeronave se mueva.
+Una de las grandes ventajas de este sistema de propulsión son las elevadas velocidades que pueden alcanzar las naves que lo usen. Además, al no tener que almacenar combustible para moverse, son más ligeras y pueden viajar durante periodos de tiempo mayores. Por ello, son una de las pocas tecnologías que podrían ser usadas para viajes interestelares.
+Aunque estas ideas parezcan ciencia ficción, la primera aeronave que utiliza la luz del Sol para cambiar su órbita alrededor de la Tierra fue lanzada en junio de 2019 como parte de un proyecto aeroespacial llamado LightSail.
+La NASA también planea experimentar con estas nuevas tecnologías de propulsión en el espacio con el lanzamiento en 2022 de ACS3, una nave espacial del tamaño de un tostador que se servirá de estas velas para cambios de órbita.
+Ya sea por aplicaciones futuristas o por cuestiones fundamentales, lo que está claro es que si Peter Pan hubiera sido consciente de su relevancia, habría tenido mucho más cuidado antes de perder su sombra. Afortunadamente, nosotros aún no nos podemos librar de ella.
+Este artículo fue publicado originalmente en The Conversation. Lea el original.

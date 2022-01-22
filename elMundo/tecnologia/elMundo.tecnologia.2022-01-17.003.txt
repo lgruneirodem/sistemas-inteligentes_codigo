@@ -1,0 +1,15 @@
+Apple Inc.
+
+Un error en Safari filtra el historial y los datos de la cuenta de Google de los usuarios
+
+Apple fue notificado de este problema el pasado 28 de noviembre y, hasta ahora, no se ha pronunciado acerca de este fallo
+
+Un error en la implementación de la versión 15 de Safari, presente también para otros navegadores en iOS e iPadOS, da lugar a la filtración de información confidencial de los usuarios, como el historial de navegación o datos correspondientes a sus cuentas personales en Google.
+Según ha indicado el servicio de detección de fraudes FingerprintJS en su blog, este error se debe a un fallo de implementación de la interfaz de programación de aplicaciones (API) IndexedDB en Safari para MacOS y en cualquier navegador en iOS 15 e iPadOS 15, debido a la exigencia de Apple de que los navegadores usen el motor WebKit en sus sistemas operativos.
+Segun explican, esta API estaría violando la política del mismo origen (SOP), un mecanismo de seguridad que restringe la interactuación entre los documentos o 'scripts' cargados desde un origen con contenidos de otras ubicaciones.
+Un origen se diferencia por su esquema o protocolo, el nombre del dominio y la URL que se utiliza para acceder a él, y cada base de datos esta asociada a un origen concreto. De ese modo, aquellos documentos e información asociados a otros orígenes no deberían tener la posibilidad de interactuar con bases de datos ajenas.
+Tal y como FingerprintJS ha comprobado en una simulación en Safari para MacOS y los navegadores afectados en iOS e iPadOS 15, esta interactuación permite que los sitios webs codificados puedan extraer información de Google, así como sus historiales y el contenido de las ventanas del navegador.
+Cada vez que un sitio web interactúa con una base datos concreta, esta se duplica con el mismo nombre en las demás pestañas y páginas activas dentro de la misma sesión del navegador, aunque está vacía de contenido. No obstante, la creación de otra base de datos con idéntico nombre es suficiente para que se pueda extraer de ella datos como el nombre de usuario de Google.
+Desde FingerprintJS indican que más de 30 de los 1.000 sitios web más visitados, según el rankign de Alexa, "interactúan con bases de datos inexadas directamente en su página de inicio, sin ninguna interacción adicional del usuario ni necesidad de autenticación", aunque se sospecha que puede haber más páginas capaces de filtrar datos confidenciales.
+Apple fue notificado de este problema el pasado 28 de noviembre y, hasta ahora, no se ha pronunciado acerca de este fallo. Por el momento, parecen existir dos soluciones posibles para frenar la fltración de información: utilizar un bloqueador de anuncios (por ejemplo, la extensión AdBlock) u optar por el bloqueo de JavaScript. Dsede FingerprintJS también recomiendan cambiar el navegador predeterminado en MacOS a otro distinto de Safari.
+Conforme a los criterios deThe Trust Project

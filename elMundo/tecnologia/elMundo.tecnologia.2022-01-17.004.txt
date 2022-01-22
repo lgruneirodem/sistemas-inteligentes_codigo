@@ -1,0 +1,13 @@
+Rusia
+
+Rusia desmantela el conocido grupo de piratas informáticos REvil tras una macrooperación en varias ciudades
+
+La operación se ha saldado con la incautación de unos cinco millones de euros
+
+Las autoridades rusas han lanzado una operación de gran envergadura contra el conocido grupo de piratas informáticos REVil, responsables por ejemplo del ataque informático que en julio del año pasado extorsionó a más de 350 organizaciones de todo el mundo.
+El Servicio Federal de Seguridad ruso (FSB) ha anunciado que la estructura del grupo ha sido prácticamente desmantelada tras una redada a los domicilios de 14 de sus integrantes, que se ha saldado con la incautación de unos cinco millones de euros -parte de ellos en criptomonedas-, más 600.000 dólares y otro medio millón de euros en efectivo y equipos informáticos, así como unos 20 coches de lujo.
+Las redadas fueron efectuadas en Moscú, San Petersburgo y Lípetsk, según el comunicado publicado por el FSB en su página web, donde ha asegurado que esta "comunidad criminal organizada ha dejado de existir".
+La operación ha sido realizada a petición de las autoridades competentes de Estados Unidos, que entregaron previamente a Rusia información sobre la cúpula de la organización y ya han sido avisadas del resultado de las operaciones.
+El 'ransomware' de REvil explotó en julio del año pasado una vulnerabilidad de la cadena de suministro de la empresa de software de servicios de TI Kaseya para atacar a más de 70 proveedores de servicios gestionados, con más de 350 organizaciones afectadas en todo el mundo, la mayor parte en Estados Unidos, Alemania y Canadá, incluyendo el gigante cárnico estadounidense JBS.
+Los operadores de REvil publicaron en su blog que más de un millón de dispositivos habían sido infectados por la actualización maliciosa. También dijeron que estaban dispuestos a proporcionar un desencriptador universal para las víctimas del ataque, pero a cambio de que se les pagaran 70 millones de dólares en bitcoins.
+Conforme a los criterios deThe Trust Project

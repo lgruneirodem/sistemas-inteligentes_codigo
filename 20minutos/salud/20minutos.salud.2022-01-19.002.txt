@@ -1,0 +1,15 @@
+Cáncer, Tumor, Cáncer de mama
+
+El nuevo método para diagnosticar el cáncer de mama sin radiación
+
+
+
+La mamografía es una prueba diagnóstica segura y efectiva para detectar el cáncer de mama, pero por lo general no se recomienda realizárselas hasta los 40 años de edad en parte porque, durante el procedimiento, se reciben pequeñas dosis de radiación ionizante.
+Aunque el riesgo de sufrir cáncer de pecho es mayor en edades más avanzadas, en realidad puede aparecer en cualquier grupo de edad. En concreto, algunos estudios han arrojado que entre el 5 y el 7% de las pacientes de cáncer son menores de 40 años.
+Con el propósito de desarrollar métodos diagnósticos que recojan mejor a este grupo de pacientes, científicos de la Universidad de Utah están trabajando en el desarrollo de una herramienta diagnóstica segura e indolora, que en lugar de radiación utiliza una corriente eléctrica de baja intensidad, según recoge el medio especializad IEEE Access.
+El sistema se basa en el principio de que el cáncer provoca cambios en el fluido linfático intersticial, debido en parte a la presencia de glóbulos blancos para combatir contra el tumor.
+Según explican los autores del trabajo, este fluido es menos conductivo eléctricamente que en una persona sana. Para detectar y medir esa diferencia, se emplean dos electrodos que envían la corriente a través del cuerpo del paciente.
+Este proceso se repite en diferentes partes del cuerpo, y un dispositivo va midiendo la conductividad en cada caso. Posteriormente, un algoritmo analiza todas las mediciones y calcula las probabilidades de que un paciente tenga cáncer o no.
+El método se ha probado, por ahora, con 48 mujeres, de las cuales 24 tenían cáncer maligno y 23 lesiones benignas. En este ensayo, el sistema acertó la presencia de cáncer con un 70% de precisión y la descartó con un 75%.
+Aunque esto es menos preciso que una mamografía (que se encuentra entre el 80 y el 98% de eficacia), puede convertirse en una herramienta auxiliar especialmente indicada para mujeres más jóvenes o con el tejido del pecho más denso.
+Incluso, podría usarse en pacientes que ya están siendo sometidas a tratamientos con radioterapia para evitar aplicarles más radiación, con los riesgos que ello conlleva.

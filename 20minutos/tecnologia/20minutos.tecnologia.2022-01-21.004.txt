@@ -1,0 +1,19 @@
+Satélite, SpaceX, Asteroides, Starlink, Noticias de asteroides, Tecnología espacial
+
+En 5 años habrá tantos satélites Starlink que aparecerán en todas las imágenes crepusculares de los telescopios
+
+
+
+La red de satélites Starlink está teniendo un gran impacto en la labor de los telescopios ópticos que operan en el mismo centro, como el ZTF (Zwicky Transient Facility). Por ello, un equipo de investigadores del Observatorio Palomar, en la Universidad Tecnológica de California (Caltech) ha llevado a cabo un estudio sobre el tema.
+El resultado de este trabajo vaticina un futuro problemático para algunos trabajos relacionados con la astronomía como, por ejemplo, la detección de asteroides potencialmente peligrosos. Este estudio se ha publicado recientemente en he Astrophysical Journal Letters.
+La red de satélites de Elon Musk ha sido motivo de debate en otras ocasiones por los astrónomos, ya que la consideran que la órbita cada vez es más tupida. Sin embargo, en este estudio, por primera vez, se tienen en cuenta el actual y futuro impacto ambiental.
+No obstante, los satélites de Starlink no interfieren en todas y cada una de las observaciones de los astrónomos.  Estos satélites sobrevuelan la Tierra a una altura de alrededor de 550km, lo que hace que reflejen mucha más luz durante el amanecer y el atardecer; esto provoca algún que otro problema en las observaciones crepusculares.
+Las observaciones crepusculares como las del  ZTF son muy útiles para detectar cambios en el firmamento como estrellas que repentinamente varían de magnitud, colisiones de estrellas de neutrones o la aparición súbita de cometas y asteroides cercanos a la Tierra.
+Para este estudio, los investigadores del Observatorio Palomar han examinado los datos disponibles (comprendidos entre noviembre de 2019 y septiembre de 2021) sobre 'avistamientos' de satélites Starlink durante observaciones crepusculares.
+A día de hoy, las interferencias causadas por los satélites no son muy numerosas, sin embargo, a medida que Elon Musk despliega más satélites los ‘photobombs’ de Starlink se hacen cada vez más frecuentes.
+En 2019, las estelas de los satélites aparecían solo en el 0,5% de las imágenes, pero, en 2021, esa cifra había subido hasta el 18% de las fotos. En total, durante el tiempo en el que se ha llevado a cabo el estudio se han registrado 5.031 interferencias atribuibles directamente a Starlink.
+Actualmente, la red Starlink está compuesta por unos 2.000 satélites. La compañía confía en poder alcanzar un despliegue completo de su red de Internet satelital para 2027. Para esa fecha, el número de repetidores en órbita será de 10.000.
+Según los científicos de Caltech, en 2027 la red provocará interferencias en  todas las observaciones del observatorio ZTF. No obstante, la buena noticia es que las posibilidades reales de que nos perdamos un hecho indispensable por causa de esta interferencia son bajas, ya que, según el estudio, la estela de los Starlink solo tapa el 0,1% de los píxeles de la imagen.
+Aun así, Starlink trabaja desde 2020 para solventar los problemas que causan sus satélites. La compañía solucionó algunas de las quejas añadiendo viseras que impiden que el sol se refleje en toda la superficie del satélite. Esta medida ha reducido la magnitud de los satélites en 4,6 puntos, pero, en la actualidad, siguen teniendo una magnitud de 6,8, que sigue siendo muy elevada.
+El problema no sólo afecta a las observaciones crepusculares. Hay otras redes de comunicaciones proyectadas que operan a mayor altitud y podrían interferir con otras observaciones. También están reduciendo las ventanas de lanzamiento de cohetes, poniendo en peligro algunos sistemas en órbita por posible riesgo de colisiones y los científicos no descartan que puedan generar interferencias en observatorios de radioastronomía.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

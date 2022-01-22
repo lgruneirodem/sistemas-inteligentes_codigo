@@ -1,0 +1,15 @@
+WhatsApp
+
+WhatsApp permitirá a los administradores de grupos eliminar mensajes de los chats
+
+Gracias a esta nueva función, que pertenece a la actualización beta de WhatsApp para Android 2.22.1.7, los administradores de grupos podrán moderar y controlar el contenido que se comparte
+
+WhatsApp permitirá que los administradores de los chats grupales puedan eliminar los mensajes que consideren oportunos independientemente de quién los haya enviado en los dispositivos Android.
+Así lo ha anunciado WABetainfo, que ha indicado que la aplicación está lanzando una nueva actualización a través del programa beta de Google Play, que dará esta capacidad de control a los administradores de los chats grupales.
+Gracias a esta nueva función, que pertenece a la actualización beta de WhatsApp para Android 2.22.1.7, los administradores podrán moderar y controlar el contenido que se comparte en estos grupos, así como decidir lo que desean mantener en ellos.
+Cada vez que eliminen un mensaje, todos los miembros de dicho grupo recibirán un aviso dentro del propio chat y aparecerá en el lugar en el que antes estuvo el mensaje eliminado. Este indicará qué administrador (en el caso de que en el grupo figuren varios administradores) se ha encargado de borrarlo.
+Los administradores de los grupos de WhatsApp tendrán potestad de eliminar cualquier mensaje de estos chats sin la necesidad de que el resto de los participantes den su consentimiento parea proceder al borrado.
+Por el momento, se desconoce la fecha de implementación de esta opción, ya que desde este portal no se menciona cuándo llegará esta actualización a los dispositivos Android.
+Cabe destacar que no es la primera vez que esta aplicación de mensajería instantánea opta por desarrollar funciones de eliminación de mensajes similares.
+En 2017 introdujo la posibilidad de eliminar de forma permanente mensajes ya enviados y recientemente ha anunciado nuevas opciones dentro de los mensajes temporales. Una vez activados, estos desaparecen al cabo de siete días, 24 horas o 90 días.
+Conforme a los criterios deThe Trust Project

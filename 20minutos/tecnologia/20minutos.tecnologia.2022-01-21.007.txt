@@ -1,0 +1,15 @@
+Seguridad informática, Contraseña, Ciberseguridad, Ciberataque
+
+OpenSubtitles sufre un hackeo y filtran los datos de millones de usuarios: cómo saber si te ha afectado
+
+
+
+OpenSubtitles ha sufrido un ciberataque que ha dejado expuestos un total de 6.783.158 correos electrónicos, nombres de usuario, contraseñas, direcciones IP y ubicaciones geográficas. Este servicio es uno de los sitios web a los que más recurre la gente para descargar los subtítulos de series y películas.
+El encargado de transmitir la noticia ha sido un administrador que se hace llamar ‘oss’ que ha publicado un mensaje en el foro explicando la situación. Según cuenta, un ciberdelincuente ha accedido a la información que los usuarios tenían en agosto del año pasado.
+El atacante ha pedido un rescate a través de Telegram a los administradores de OpenSubtitles. Según detalla, la plataforma ha aceptado pagar la cantidad de dinero que pedían en Bitcoins y el cibercriminal han aclarado cómo llegaron a hackear las cuentas.
+El primer paso fue conseguir el acceso de SuperAdmin mediante una contraseña de baja seguridad. Una vez que lo lograron, el ciberdelincuente tenía más posibilidades de hacer y deshacer cuanto quisieran.
+Según ha informado, al ser SuperAdmin, el atacante ha accedido a un script vulnerable para realizar inyecciones de SQL y extraer todos los datos. Según la plataforma de ciberseguridad Avast, “la inyección de SQL es un tipo de ciberataque encubierto en el cual un hacker inserta código propio en un sitio web con el fin de quebrantar las medidas de seguridad y acceder a datos protegidos”.
+OpenSubtitles ha reconocido que no han mejorado la seguridad de su página web desde “hace mucho tiempo”. El servicio para descargar subtítulos nació en 2006 y parece ser que todas las contraseñas estaban almacenadas en hashes md5 sin salt. Esto implica que las contraseñas de menos de 10 caracteres sin números ni símbolos podían descifrarse sin casi esfuerzo por algoritmos de descifrado.
+Ahora, los administradores del sitio web han pedido a sus consumidores que cambien sus contraseñas tanto en opensubtitles.org como en opensubtitles.com. Además, también ha recomendado que los usuarios que repitiesen su contraseña en otras plataformas modifiquen sus credenciales.
+Para comprobar si formas parte de los afectados por el ataque, tan solo debes entrar en haveibeenpwed.com y escribir tu correo electrónico en el buscador. De este modo, la web te avisará si formas parte de los emails filtrados.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.

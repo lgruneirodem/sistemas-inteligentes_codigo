@@ -1,0 +1,19 @@
+iPhone, Realidad virtual, Apple Inc.
+
+El casco de realidad virtual de Apple podría retrasarse a 2023
+
+Problemas de calentamiento en el casco por culpa de los dos procesadores y las ocho cámaras externas afectan al desarrollo del producto
+
+Cinco productos describen la historia de Apple: el Mac, el iPod, el iPhone, el iPad y el Apple Watch. Todos pueden considerase un éxito y, en cierta forma, dispositivos que han pasado a definir el mercado en el que participan.
+La pregunta que muchos se hacen ahora es cuál será el siguiente en esa lista y todo parece apuntar a que la próxima gran apuesta de Apple será la realidad aumentada y la realidad virtual.
+La compañía, según el analista de TF Securities Ming-Chi Kuo, lleva años trabajando en cascos y gafas capaces de superponer elementos digitales sobre el campo de visión, una idea que hasta ahora sólo ha impulsado en dispositivos como el iPad o el iPhone y como una aplicación secundaria, más como una curiosidad que una función imprescindible para estos dispositivos.
+El primero de estos productos, sin embargo, estaría casi listo para llegar al mercado. La idea original era ponerlo a la venta este mismo año pero, según publicaBloomberg, varios obstáculos en la producción podrían retrasar su lanzamiento hasta el año 2023.
+El principal es que los prototipos que Apple está probando internamente tienen problemas de calentamiento debido al procesador y las cámaras que utiliza.
+El casco, de 300 gramos de peso y cubierto de tela, tendría el aspecto de unas gafas de esquí y contaría con ocho cámaras externas para capturar todo lo que sucede en el campo de visión y retransmitirlo como señal de vídeo a las pantallas en el interior del dispositivo. A estas cámaras se le sumarán otros ocho sensores que serán capaces de capturar el movimiento de las manos del usuario para controlar los diferentes juegos y aplicaciones.
+Para controlar todos esos sensores, dibujar los objetos virtuales y mostrarlos en las dos pantallas (que, según los rumores, tendrán resolución 4K), el casco utilizará dos procesadores con una potencia comparable a los M1 Pro que la compañía incluye en sus ordenadores más avanzados.
+La idea original de Apple era integrar estos procesadores en un módulo externo que retransmitiría la imagen de forma inalámbrica a las gafas y sería más fácil de refrigerar. Pero finalmente Apple ha optado por un diseño simplificado en el que todos los componentes están integrados en las propias gafas.
+Con este nivel de integración, no obstante, los procesadores generan demasiado calor durante el funcionamiento, lo que hace incómodo utilizar el dispositivo durante largas sesiones. La empresa está tratando de buscar formas de disipar ese calor sin añadir ventiladores u otros elementos que aumenten el peso, el consumo o el ruido que generaría el casco durante su uso.
+Apple, según Bloomberg, tiene a más de 2.000 empleados dedicados a este nuevo producto, que finalmente podría conocerse como Apple Vision o Apple Reality. Las gafas utilizarán un sistema operativo propio que por ahora se conocen como rOS, y competirán con otros productos de realidad virtual del mercado, como las Oculus Quest de Meta, aunque estarán dirigidas a un público algo diferente.
+Dada la capacidad de proceso y la alta resolución de las pantallas, se espera que las primeras gafas tengan un precio elevado, cercano a los 2.000 euros, mucho mayor al de otras alternativas del mercado.
+A estas primeras gafas le seguirán en años posteriores modelos con cristales transparentes que no dependerán de cámaras para mostrar los objetos en el campo de visión del usuario.
+Conforme a los criterios deThe Trust Project
