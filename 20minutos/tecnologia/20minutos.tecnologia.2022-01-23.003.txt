@@ -1,0 +1,17 @@
+WiFi, Internet, Ordenador, Ciberseguridad, Aplicaciones móvil, Noticias de tecnología, Móviles y dispositivos, Redes y apps
+
+¿Hay un intruso en mi señal WiFi? Así puedes descubrir si alguien está conectado a tu red
+
+
+
+Cuantos más dispositivos se conectan a una red WiFi, mayor lentitud existe a la hora de enviar la señal. Por ese motivo, es importante cerciorarse de vez en cuando de que no haya una persona ajena al domicilio conectada al WiFi de tu casa.
+Para identificar todos los aparatos que están conectados a una red WiFi concreta, existen numerosas aplicaciones que se pueden usar tanto desde el smartphone como con el ordenador. De este modo, los usuarios podrán conocer si hay alguien ajeno utilizando la señal y cambiar la contraseña para evitar que lo continúe haciendo.
+La manera más práctica de hacerlo por el hecho de que no se necesita descargar ninguna aplicación es emplear uno de los dispositivos conectados. El usuario solo tiene que entrar a la dirección IP de su módem cuyas credenciales están en la parte de atrás del router.
+Si te resulta complicado, puedes acceder a diferentes aplicaciones que facilitan el proceso, como las que 20BITS te va a enseñar en esta publicación.
+La aplicación móvil es capaz de detectar cuántos dispositivos se encuentran en cada momento usando la señal WiFi para que sea fácil detectar a los intrusos. Además, los usuarios también pueden obtener una respuesta a sus preguntas sobre si la red que usan es segura o si existen cámaras ocultas en la casa.
+Con tan solo entrar en Fing, el dispositivo móvil tendrá acceso a la información de los dispositivos que están conectados a la red. Únicamente deberán dirigirse a ‘Inicio’ y clicar en la opción ‘Buscar dispositivos’ que aparece en la parte de arriba.
+A continuación, la aplicación comenzará a realizar una búsqueda de los aparatos que hay conectados al WiFi. Una vez terminado el análisis de la red, la aplicación detallará cuáles son los objetos electrónicos conectados a la señal.
+Si el usuario clica encima de los dispositivos que Fing ha encontrado, podrá administrarlos. Asimismo, tendrá un historial de cuánta señal ocupa o incluso de qué modelo se trata.
+Esta herramienta para ordenadores se puede instalar a través de la página oficial de NirSoft. Para ello, tan solo habrá que clicar en este enlace y seleccionar la opción ‘Download Wireless Network Wateher with full install/uninstall support (wnetwatcher_setup.exe)’.
+Al hacer esto, se descargará el programa en el ordenador y, si lo abres, realizará un análisis exhaustivo de la red. Cuando la herramienta termine con el análisis, ofrecerá un listado con todos los dispositivos conectados al WiFi.
+Apúntate a nuestra newsletter y recibe en tu correo las últimas noticias sobre tecnología.
