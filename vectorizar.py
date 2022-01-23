@@ -25,7 +25,7 @@ def generateDF(path):
         if file.startswith("."): continue
         file_path = os.path.join(path, file)
         if os.path.isfile(file_path):
-            with open(file_path, 'r', encoding="ISO-8859-1") as f:
+            with open(file_path, 'r') as f:
                 df = df.append({"name": file, "path": file_path, "content": f.read()}, ignore_index=True)
         elif os.path.isdir(file_path):
             df = df.append(generateDF(file_path))
