@@ -38,6 +38,7 @@ def comparar():
         messagebox.showinfo("Porfavor elige una noticia", "Porfavor elige una noticia")
         return
     buscar_btn["text"] = "Calculando..."
+    root.update()
     global vector_df
     selected = list_noticias.get(list_noticias.curselection()[0])
     row = vector_df[(vector_df['name'] == selected) 
@@ -46,18 +47,18 @@ def comparar():
     index_noticia = row.index.tolist()[0]
     vector_noticia = row["vector"].to_list()[0]
     etiquettas_noticia = row["etiquettas"].to_list()[0]
-    vector_df["similitud"] = 0.0
-    vector_df["recomendacion"] = 0.0
-    for index, row in vector_df.iterrows():
+    filtered = vector_df.copy()
+    if filter_noticias.get() != "todos":
+        filtered = vector_df[vector_df["medio"] == filter_noticias.get()].copy()
+    filtered["similitud"] = 0.0
+    filtered["recomendacion"] = 0.0
+    for index, row in filtered.iterrows():
         if index == index_noticia: continue
         vector = [float(i.strip()) for i in row["vector"][1:-1].split(",")]
         vector_noticia = [float(i.strip()) for i in str(vector_noticia)[1:-1].split(",")]
         similitud = cos_sim(vector, vector_noticia)
-        vector_df.loc[index, "similitud"] = similitud
-        vector_df.loc[index, "recomendacion"] = sorensen(str(row["etiquettas"]), etiquettas_noticia)
-    filtered = vector_df
-    if filter_noticias.get() != "todos":
-        filtered = vector_df[vector_df["medio"] == filter_noticias.get()]
+        filtered.loc[index, "similitud"] = similitud
+        filtered.loc[index, "recomendacion"] = sorensen(str(row["etiquettas"]), etiquettas_noticia)
     sorted = filtered.sort_values(by='similitud', ascending=False).head(int(top_n_noticias.get()))
     recomendaciones = filtered.sort_values(by='recomendacion', ascending=False).head(int(top_n_noticias.get()))
     found_files = []
@@ -163,7 +164,7 @@ top_n_noticias.grid(column=0, row=5, sticky=E)
 ttk.Label(clasiFrame, text="Filtrar:").grid(column=1, row=5, sticky=W)
 # filter select
 filter = IntVar()
-filter_choices = ["todos", "20minutes", "elMundo", "elPais"]
+filter_choices = ["todos", "20minutos", "elMundo", "elPais"]
 filter_noticias = ttk.Combobox(clasiFrame, state="readonly", values=filter_choices, width=10)
 filter_noticias.current(0)
 filter_noticias.grid(column=1, row=5, sticky=E)
@@ -212,7 +213,7 @@ def stemming(x):
 def calculateSimilarity(df):
     vectorizer = pickle.load(open("vectorizer.file", 'rb'))
     query = stemming(removeStopwords(tokenize(query_input.get())))
-    if query == "": return
+    if not query: return
     consulta_vec = vectorizer.transform([query])
     dense = consulta_vec.todense()
     denselist = dense.tolist()
@@ -228,12 +229,13 @@ def buscar(event="dummy"):
         messagebox.showinfo("Introduzca la consulta", "Introduzca la consulta")
         return
     search_btn["text"] = "Calculando..."
-    vector_df["similitud"] = 0.0
-    vector_df = calculateSimilarity(vector_df)
-    amount = top_n_select.current()
-    filtered = vector_df
+    root.update()
+    filtered = vector_df.copy()
     if filter_select.get() != "todos":
-        filtered = vector_df[vector_df["medio"] == filter_select.get()]
+        filtered = vector_df[vector_df["medio"] == filter_select.get()].copy()
+    filtered.loc[:,"similitud"] = 0.0
+    filtered = calculateSimilarity(filtered)
+    amount = top_n_select.current()
     sorted = filtered.sort_values(by='similitud', ascending=False).head(top_n_choices[amount])
     found_files = []
     for index, row in sorted.iterrows():
@@ -279,7 +281,7 @@ top_n_select.grid(column=1, row=1, sticky=W)
 ttk.Label(busqFrame, text="Filtrar:").grid(column=2, row=1, sticky=W)
 # filter select
 filter = IntVar()
-filter_choices = ["todos", "20Min", "elMundo", "elPais"]
+filter_choices = ["todos", "20minutos", "elMundo", "elPais"]
 filter_select = ttk.Combobox(busqFrame, state="readonly", values=filter_choices)
 filter_select.current(0)
 filter_select.grid(column=3, row=1, sticky=W)
