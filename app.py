@@ -18,6 +18,14 @@ tabs.add(clasiFrame, text="Comparación de noticias")
 vector_df = pd.read_csv("vectores.csv")
 
 def sorensen(a,b):
+    """
+    It takes two strings, splits them into arrays, finds the intersection of the two arrays, and returns
+    the length of the intersection divided by the sum of the lengths of the two arrays
+    
+    :param a: The first string to compare
+    :param b: The list of words in the first sentence
+    :return: The Sorensen similarity coefficient between two lists.
+    """
     a = str(a).split(",")
     b = str(b).split(",")
 
@@ -34,6 +42,12 @@ def sorensen(a,b):
     return (2 * len(intersect(a,b))) / (len(a) + len(b))
 
 def comparar():
+    """
+    It takes the selected news item, finds the vector and tags for that news item, then compares it to
+    all the other news items in the database, and returns the top n most similar news items, and the top
+    n most similar news items based on tags
+    :return: A list of strings.
+    """
     if not list_noticias.curselection():
         messagebox.showinfo("Porfavor elige una noticia", "Porfavor elige una noticia")
         return
@@ -72,11 +86,26 @@ def comparar():
     buscar_btn["text"] = "Buscar"
     
 def mostrarNoticias(event="dummy"):
+    """
+    It takes the current values of the two dropdown widgets and filters the dataframe to show only the
+    rows that match those values
+    
+    :param event: the event that triggered the function (in this case, the selection of a value in the
+    dropdown menu), defaults to dummy (optional)
+    """
     global vector_df
     noticias_df = vector_df[(vector_df["medio"] == Medios_choices.get()) & (vector_df["categoria"] == Categ_choices.get())]
     noticias_var.set(noticias_df["name"].to_list())
 
 def onArticleSelect(event):
+    """
+    If the user has selected an item in the listbox, then get the selected item, find the corresponding
+    row in the dataframe, get the path from the row, and if the file exists, then read the file and
+    display it in the textbox
+    
+    :param event: The event that triggered the callback
+    :return: The path to the file
+    """
     global vector_df
     if not list_noticias.curselection():
         return
@@ -91,6 +120,14 @@ def onArticleSelect(event):
         messagebox.showinfo("No podemos encontrar esta noticia")
 
 def onSimSelect(event="dummy"):
+    """
+    It takes the selected item from the listbox, extracts the filename from it, finds the path to the
+    file in the dataframe, and then opens the file and displays it in the textbox
+    
+    :param event: The event that triggered the function, defaults to dummy (optional)
+    :return: The similarity between the selected news and the news that is being displayed in the
+    textbox.
+    """
     if not noticias_similares.curselection():
         return
     selected = noticias_similares.get(noticias_similares.curselection()[0])
@@ -105,6 +142,13 @@ def onSimSelect(event="dummy"):
         messagebox.showinfo("No podemos encontrar esta noticia")
 
 def onRecoSelect(event="dummy"):
+    """
+    It takes the selected item from the listbox, finds the corresponding file in the dataframe, and then
+    opens the file and displays it in the textbox
+    
+    :param event: The event that triggered the callback, defaults to dummy (optional)
+    :return: The path to the file
+    """
     if not noticias_reco.curselection():
         return
     selected = noticias_reco.get(noticias_reco.curselection()[0])
@@ -118,6 +162,7 @@ def onRecoSelect(event="dummy"):
     else:
         messagebox.showinfo("No podemos encontrar esta noticia")
 
+# Creating a GUI with a listbox and a combobox.
 ttk.Label(clasiFrame, text="Periódico").grid(column=0, row=0,sticky=N)
 Med = IntVar() 
 Medios = ["20minutos", "elMundo", "elPais"]
@@ -195,22 +240,58 @@ clasiFrame.columnconfigure(2, weight=1, minsize=min_size)
 clasiFrame.columnconfigure(3, weight=1, minsize=min_size)
 
 def cos_sim(a,b):
+    """
+    It takes two vectors, a and b, and returns the cosine of the angle between them
+    
+    :param a: the first vector
+    :param b: the vector of the word we're looking at
+    :return: The cosine similarity between two vectors.
+    """
     return dot(a, b)/(norm(a)*norm(b))
 
 def tokenize(x):
+    """
+    It takes a string as input and returns a list of words in the string
+    
+    :param x: The text to be tokenized
+    :return: A list of words
+    """
     return RegexpTokenizer(r'\w+').tokenize(x.lower())
 
 def removeStopwords(x):
+    """
+    It opens the file "stopWords_es.txt" and reads it into a string. Then it splits the string into a
+    list of words. Then it returns a list of words from the input list that are not in the list of stop
+    words
+    
+    :param x: the list of words to be filtered
+    :return: A list of words that are not in the prohibitedWords list.
+    """
     with open("stopWords_es.txt") as f:
         text = f.read()
         prohibitedWords = text.split("\n")
         return [word for word in x if not word in prohibitedWords]
 
 def stemming(x):
+    """
+    It takes a string as input, splits it into words, stems each word, and then joins the stemmed words
+    back into a single string
+    
+    :param x: The text to be stemmed
+    :return: A string of words
+    """
     stemmer = SnowballStemmer(language="spanish")
     return ' '.join([stemmer.stem(word) for word in x])
 
 def calculateSimilarity(df):
+    """
+    It takes a dataframe, loads a vectorizer, transforms the query into a vector, calculates the cosine
+    similarity between the query vector and the vector of each row in the dataframe, and returns the
+    dataframe with the cosine similarity added as a column
+    
+    :param df: the dataframe with the vectors
+    :return: A dataframe with the similarity between the query and the documents.
+    """
     vectorizer = pickle.load(open("vectorizer.file", 'rb'))
     query = stemming(removeStopwords(tokenize(query_input.get())))
     if not query: return
@@ -224,6 +305,14 @@ def calculateSimilarity(df):
     return df
                                                       
 def buscar(event="dummy"):
+    """
+    It takes the query, filters the dataframe by the selected medium, calculates the similarity between
+    the query and the documents, sorts the dataframe by similarity, and then updates the listbox with
+    the top n results
+    
+    :param event: The event that triggered the function, defaults to dummy (optional)
+    :return: the filtered dataframe.
+    """
     global vector_df
     if query_input.get() == "":
         messagebox.showinfo("Introduzca la consulta", "Introduzca la consulta")
@@ -244,6 +333,14 @@ def buscar(event="dummy"):
     search_btn["text"] = "Buscar"
 
 def onFileSelect(event):
+    """
+    If the user has selected a file in the listbox, then get the filename from the listbox, find the
+    path to the file in the dataframe, and if the file exists, then open it and display it in the text
+    field
+    
+    :param event: The event that triggered this function
+    :return: the path of the file.
+    """
     if not listbox.curselection():
         return
     global vector_df
@@ -253,7 +350,7 @@ def onFileSelect(event):
     row = vector_df.loc[vector_df['name'] == filename]
     path = row["path"].to_list()[0]
     if os.path.isfile(path):
-        with open(path, "r") as f:
+        with open(path, "r",encoding='latin-1') as f:
             textField.delete('1.0', END)
             textField.insert('1.0',f.read())
     else:
